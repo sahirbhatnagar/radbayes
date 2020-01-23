@@ -4,6 +4,8 @@
 # radbayes
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh///master?urlpath=rstudio)
+[![Travis-CI Build
+Status](https://travis-ci.org/sahirbhatnagar/radbayes.svg?branch=master)](https://travis-ci.org/sahirbhatnagar/radbayes)
 
 This repository contains the data and code for our paper:
 
