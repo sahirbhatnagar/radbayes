@@ -27,6 +27,15 @@ Our pre-print is online here:
 
 > Authors, (YYYY). _`r Title`_. Name of journal/book, Accessed `r format(Sys.Date(), "%d %b %Y")`. Online at <https://doi.org/xxx/xxx>
 
+# Docker Image
+
+```{bash, eval = FALSE, echo = TRUE}
+# https://github.com/rocker-org/rocker/wiki/Using-the-RStudio-image
+docker pull sahirbhatnagar/radbayes:latest
+docker run sahirbhatnagar/radbayes
+docker run -e PASSWORD=<YOUR_PASS> -p 8787:8787 rocker/rstudio
+```
+
 
 ### How to cite
 
