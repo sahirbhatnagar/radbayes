@@ -23,15 +23,71 @@ options(digits = 4, scipen = 2)
 
 # Tidyposterior
 
-<br><br>
 
-Since Accuracy is based on a continuous response, we calculate the intraclass correlation (ICC). All websites were
-rated by both coders, so Interrater reliability (IRR) was assessed using a two-way mixed, average-measures ICC [@mcgraw1996forming] to assess the degree that raters (or coders) provided consistency in their ratings of number of incorrect statements across websites. 
+see https://tidymodels.github.io/tidyposterior/articles/Getting_Started.html
+
+<br><br>
 
 
 ```{r}
 # devtools::install_github("tidymodels/tidyposterior")
+library(tidyposterior)
+library(ggplot2)
+library(tidyverse)
+theme_set(theme_bw())
+```
 
+
+
+```{r}
+data("precise_example")
+
+rocs <- precise_example %>%
+   select(id, contains("ROC")) %>%
+   setNames(tolower(gsub("_ROC$", "", names(.)))) 
+rocs
+```
+
+
+```{r}
+rocs_stacked <- tidyr::pivot_longer(rocs, cols = -id, names_to = "model", values_to = "statistic")
+
+ggplot(rocs_stacked, aes(x = model, y = statistic, group = id, col = id)) + 
+  geom_line(alpha = .75) + 
+  theme(legend.position = "none")
+```
+
+
+```{r}
+roc_model <- tidyposterior::perf_mod(rocs, seed = 2824)
+roc_model$stan
+```
+
+```{r}
+roc_post <- tidy(roc_model)
+head(roc_post)
+ggplot(roc_post) + 
+  # Add the observed data to check for consistency 
+  geom_point(
+    data = rocs_stacked, 
+    aes(x = model, y = statistic), 
+    alpha = .5, col = "blue"
+  )
+```
+
+
+# Contrast models
+
+```{r}
+glm_v_nnet <- contrast_models(roc_model, "nnet", "glm")
+head(glm_v_nnet)
+summary(glm_v_nnet, size = 0.02)
+```
+
+## THE ROPE
+
+```{r}
+ggplot(glm_v_nnet, size = 0.02)
 ```
 
 

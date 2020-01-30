@@ -3,9 +3,27 @@
 
 # radbayes
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh///master?urlpath=rstudio)
+<!--[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh///master?urlpath=rstudio)-->
+
 [![Travis-CI Build
 Status](https://travis-ci.org/sahirbhatnagar/radbayes.svg?branch=master)](https://travis-ci.org/sahirbhatnagar/radbayes)
+
+    analysis/
+    |
+    ├── paper/
+    │   ├── paper.Rmd       # this is the main document to edit. just testing code for now
+    │   └── references.bib  # this contains the reference list information
+    ├── figures/            # location of the figures produced by the Rmd
+    |
+    ├── data/
+    │   ├── raw_data/       # data obtained from elsewhere
+    │   └── derived_data/   # data generated during the analysis
+    |
+    └── templates # not currently being used
+        ├── journal-of-archaeological-science.csl
+        |                   # this sets the style of citations & reference list
+        ├── template.docx   # used to style the output of the paper.Rmd
+        └── template.Rmd
 
 This repository contains the data and code for our paper:
 
@@ -15,7 +33,7 @@ This repository contains the data and code for our paper:
 Our pre-print is online here:
 
 > Authors, (YYYY). *Title of your paper goes here*. Name of
-> journal/book, Accessed 27 Jan 2020. Online at
+> journal/book, Accessed 30 Jan 2020. Online at
 > <https://doi.org/xxx/xxx>
 
 # Docker Image
@@ -39,7 +57,7 @@ docker stop radbayes # this can be what you supplied to --name in the above comm
 Please cite this compendium as:
 
 > Authors, (2020). *Compendium of R code and data for Title of your
-> paper goes here*. Accessed 27 Jan 2020. Online at
+> paper goes here*. Accessed 30 Jan 2020. Online at
 > <https://doi.org/xxx/xxx>
 
 ### How to download or install
