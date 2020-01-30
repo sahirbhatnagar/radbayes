@@ -15,15 +15,31 @@ This repository contains the data and code for our paper:
 Our pre-print is online here:
 
 > Authors, (YYYY). *Title of your paper goes here*. Name of
-> journal/book, Accessed 23 Jan 2020. Online at
+> journal/book, Accessed 27 Jan 2020. Online at
 > <https://doi.org/xxx/xxx>
+
+# Docker Image
+
+``` bash
+# https://github.com/rocker-org/rocker/wiki/Using-the-RStudio-image
+# https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-16-04
+# https://docs.docker.com/engine/reference/run/ which explains the run tags
+docker pull sahirbhatnagar/radbayes:latest # pulls the image locally
+docker images # see list of images
+docker ps -a # also see list of images
+docker run -d -p 8787:8787 -e PASSWORD=<YOUR_PASS> --name radbayes sahirbhatnagar/radbayes
+# then go to http://localhost:8787
+# username is rstudio, password is what you specified
+# in R do: setwd('/radbayes/') and then you should see the folder with all the materials in the folder RStudio pane
+docker stop radbayes # this can be what you supplied to --name in the above command or the container ID
+```
 
 ### How to cite
 
 Please cite this compendium as:
 
 > Authors, (2020). *Compendium of R code and data for Title of your
-> paper goes here*. Accessed 23 Jan 2020. Online at
+> paper goes here*. Accessed 27 Jan 2020. Online at
 > <https://doi.org/xxx/xxx>
 
 ### How to download or install

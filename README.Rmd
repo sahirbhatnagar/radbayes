@@ -31,9 +31,16 @@ Our pre-print is online here:
 
 ```{bash, eval = FALSE, echo = TRUE}
 # https://github.com/rocker-org/rocker/wiki/Using-the-RStudio-image
-docker pull sahirbhatnagar/radbayes:latest
-docker run sahirbhatnagar/radbayes
-docker run -e PASSWORD=<YOUR_PASS> -p 8787:8787 rocker/rstudio
+# https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-16-04
+# https://docs.docker.com/engine/reference/run/ which explains the run tags
+docker pull sahirbhatnagar/radbayes:latest # pulls the image locally
+docker images # see list of images
+docker ps -a # also see list of images
+docker run -d -p 8787:8787 -e PASSWORD=<YOUR_PASS> --name radbayes sahirbhatnagar/radbayes
+# then go to http://localhost:8787
+# username is rstudio, password is what you specified
+# in R do: setwd('/radbayes/') and then you should see the folder with all the materials in the folder RStudio pane
+docker stop radbayes # this can be what you supplied to --name in the above command or the container ID
 ```
 
 
