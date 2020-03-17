@@ -1,0 +1,606 @@
+Anonymized ID,Age,Sex,Zubrod PS,Smoking PY,Smoking Hx,Drinking hx,Dx,Ds Site,Subsite,T,N,M,Stage,Primary Histology,HPV,pN+,LVI,PNI,Tumor Size,Atypical features,LN rads vs path
+4,75.6,Male,ECOG 0,40,Current,non-drinker,LHC,Larynx,Supraglottis,T2,N0,M0,II,SCC,,,,,NA,no,NA
+7,62.4,Male,ECOG 2,100,Current,heavy,LHC,Larynx,Glottis,T1b,N0,M0,I,SCC,,,,,NA,no,NA
+8,62.1,Female,ECOG 1,40,Current,non-drinker,LHC,Larynx,Glottis,T4a,N0,M0,IVA,SCC,NEG,No,No,Yes,3.5,no,R- P-
+9,75.7,Male,ECOG 1,30,Ex-smoker,ex-drinker,LHC,Larynx,Supraglottis,T3,N2c,M0,IVA,SCC,,,,,NA,no,NA
+10,82.2,Male,ECOG 1,30,Ex-smoker,Moderate,LHC,Hypopharynx,Pyriform Sinus,T3,N1,M0,III,SCC,,,,,NA,no,NA
+13,58.4,Female,ECOG 1,0,Non-smoker,Moderate,LHC,Hypopharynx,Pyriform Sinus,T2,N2b,M0,IVA,SCC,NEG,,,,NA,no,NA
+17,63.1,Male,ECOG 0,40,Current,heavy,LHC,Hypopharynx,Pyriform Sinus,T2,N2b,M0,IVA,SCC,,,,,NA,no,NA
+18,57.7,Male,ECOG 0,18,Current,Moderate,LHC,Larynx,Glottis,T2,N0,M0,II,SCC,,,,,NA,no,NA
+19,64.4,Female,ECOG 0,35,Current,non-drinker,LHC,Larynx,Glottis,T2,N0,M0,II,SCC,,,,,NA,no,NA
+20,71.8,Male,ECOG 0,25,Current,Moderate,LHC,Hypopharynx,Pyriform Sinus,T3,N2b,M0,IVA,SCC,,,,,NA,no,NA
+22,69.4,Male,ECOG 1,20,Current,heavy,LHC,Hypopharynx,Pyriform Sinus,T3,N2c,M0,IVA,SCC,NEG,No,,,NA,no,R+ P-
+23,52.7,Male,ECOG 1,34,Current,heavy,LHC,Hypopharynx,Pyriform Sinus,T3,N1,M0,III,SCC,NEG,,,,NA,no,NA
+26,74.9,Male,ECOG 1,10,Current,heavy,LHC,Hypopharynx,post-cricoid,T4a,N0,M0,IVA,SCC,,No,Yes,Yes,4.8,no,R- P-
+28,63.1,Male,ECOG 2,80,Current,non-drinker,LHC,Larynx,Supraglottis,T4a,N0,M0,III,SCC,,,,,NA,no,NA
+29,47.7,Male,ECOG 1,22,Current,ex-drinker,LHC,Larynx,Glottis,T2,N0,M0,II,SCC,,,,,NA,no,NA
+30,68.3,Female,ECOG 0,30,Current,non-drinker,LHC,Larynx,Glottis,T1b,N0,M0,I,SCC,,,,,NA,no,NA
+32,88,Male,ECOG 0,19,Ex-smoker,Moderate,LHC,Larynx,Subglottis,T2,N0,M0,II,SCC,,,,,NA,no,NA
+37,67.2,Male,ECOG 0,17,Ex-smoker,ex-drinker,LHC,Larynx,Glottis,T1a,N0,M0,I,SCC,,,,,NA,no,NA
+39,48.1,Male,ECOG 1,62,Current,heavy,LHC,Larynx,Supraglottis,T1,N0,M0,I,SCC,,,,,NA,no,NA
+41,76.4,Male,ECOG 1,15,Ex-smoker,Moderate,LHC,Larynx,Glottis,T1,N0,M0,I,SCC,,,,,NA,no,NA
+56,49.1,Male,ECOG 0,20,Current,light,LHC,Larynx,Glottis,T1b,N0,M0,I,SCC,,,,,NA,no,NA
+58,49,Male,ECOG 0,0,Non-smoker,light,LHC,Hypopharynx,Pyriform Sinus,T2,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+59,85.9,Male,ECOG 1,30,Ex-smoker,non-drinker,LHC,Hypopharynx,post-cricoid,T2,N0,M0,II,SCC,,,,,NA,no,NA
+61,45.7,Male,ECOG 1,0,Non-smoker,non-drinker,LHC,Larynx,Trans- glottis,T3,N0,M0,III,SCC,NEG,,,,NA,no,NA
+62,63.8,Male,ECOG 0,100,Current,Moderate,LHC,Larynx,Supraglottis,T4a,N0,M0,IVA,SCC,,No,No,Yes,6.4,no,R- P-
+63,71.7,Male,ECOG 0,15,Ex-smoker,non-drinker,LHC,Larynx,Glottis,T1a,N0,M0,I,SCC,,,,,NA,no,NA
+65,63.7,Male,ECOG 0,25,Current,heavy,LHC,Larynx,Supraglottis,T4a,N2c,M0,IVA,SCC,NEG,,,,NA,no,NA
+69,56.2,Female,ECOG 1,35,Current,ex-drinker,LHC,Larynx,Glottis,T1a,N0,M0,I,SCC,,,,,NA,no,NA
+70,65.7,Male,ECOG 2,50,Ex-smoker,ex-drinker,LHC,Larynx,Glottis,T2,N0,M0,II,SCC,NEG,No,No,No,0.3,no,R- P-
+73,72,Male,ECOG 1,30,Ex-smoker,non-drinker,LHC,Hypopharynx,Pyriform Sinus,T4a,N2c,M0,IVA,SCC,,Yes,Yes,Yes,4.8,no,R+ P+
+75,57.3,Male,ECOG 0,80,Current,Moderate,LHC,Larynx,Glottis,T4a,N0,M0,IVA,SCC,,No,No,No,4.5,no,R- P-
+79,60.6,Male,ECOG 0,9,Ex-smoker,light,LHC,Larynx,Glottis,T1a,N0,M0,I,SCC,,,,,NA,no,NA
+85,76.9,Male,ECOG 1,60,Ex-smoker,non-drinker,LHC,Larynx,Supraglottis,T2,N0,M0,II,SCC,,,,,NA,no,NA
+86,70.4,Female,ECOG 0,40,Current,light,LHC,Larynx,Supraglottis,T3,N2c,M0,IVA,SCC,,,,,NA,no,NA
+96,38.5,Male,ECOG 0,20,Current,heavy,LHC,Larynx,Glottis,T1b,N0,M0,I,SCC,,No,,,NA,no,R- P-
+99,71.4,Male,ECOG 0,0,Non-smoker,non-drinker,LHC,Larynx,Glottis,T2,N0,M0,II,SCC,,,,,NA,no,NA
+100,70.3,Female,ECOG 0,50,Current,light,LHC,Larynx,Glottis,T1a,N0,M0,I,SCC,,,,,NA,no,NA
+102,73.4,Male,Unknown,40,Current,heavy,LHC,Hypopharynx,Pyriform Sinus,T4a,N1,M0,IVA,SCC,,Yes,No,Yes,4.5,no,R+ P+
+104,66.3,Male,ECOG 1,20,Ex-smoker,ex-drinker,LHC,Hypopharynx,Pyriform Sinus,T4a,N0,M0,IVA,SCC,POS,No,No,No,2.1,no,R- P-
+105,69.1,Male,ECOG 0,40,Ex-smoker,non-drinker,LHC,Larynx,Glottis,T1a,N0,M0,I,SCC,,,,,NA,no,NA
+106,67.7,Male,ECOG 3,30,Ex-smoker,non-drinker,LHC,Larynx,Glottis,T3,N0,M0,III,SCC,,,,,NA,no,NA
+107,44.2,Female,ECOG 1,0,Non-smoker,non-drinker,LHC,Larynx,Supraglottis,T2,N0,M0,II,SCC,NEG,,,,NA,no,NA
+108,72,Male,ECOG 0,30,Ex-smoker,unknown,LHC,Hypopharynx,Pyriform Sinus,T1,N3,M0,IVB,SCC,,,,,NA,no,NA
+109,77.7,Male,ECOG 0,0,Non-smoker,non-drinker,LHC,Larynx,Supraglottis,T2,N2b,M0,IVA,SCC,,,,,NA,no,NA
+112,56.8,Male,ECOG 2,80,Current,heavy,LHC,Larynx,Glottis,T3,N0,M0,III,SCC,,,,,NA,no,NA
+114,52.1,Male,ECOG 0,5,Ex-smoker,non-drinker,LHC,Larynx,Glottis,T2,N0,M0,II,SCC,,,,,NA,no,NA
+115,65.4,Male,ECOG 1,75,Current,light,LHC,Larynx,Supraglottis,T3,N0,M0,III,SCC,,,,,NA,no,NA
+121,87.3,Male,ECOG 2,25,Ex-smoker,non-drinker,LHC,Larynx,Glottis,T1b,N0,M0,I,SCC,,,,,NA,no,NA
+122,73.8,Male,ECOG 0,50,Ex-smoker,non-drinker,LHC,Larynx,Glottis,T2,N2b,M0,IVA,SCC,,,,,NA,no,NA
+123,58.5,Male,ECOG 0,30,Current,light,LHC,Larynx,Glottis,T2,N0,M0,II,SCC,,,,,NA,no,NA
+124,75,Male,ECOG 1,25,Ex-smoker,non-drinker,LHC,Larynx,Glottis,T2,N0,M0,II,SCC,,,,,NA,no,NA
+125,75.2,Male,ECOG 0,60,Current,Moderate,LHC,Larynx,Supraglottis,T3,N0,M0,III,SCC,,,,,NA,no,NA
+126,79.4,Male,ECOG 1,45,Ex-smoker,non-drinker,LHC,Larynx,Glottis,T1a,N0,M0,I,SCC,,,,,NA,no,NA
+127,64.9,Female,ECOG 0,50,Current,non-drinker,LHC,Larynx,Glottis,T2,N0,M0,II,SCC,,,,,NA,no,NA
+128,81.4,Male,ECOG 3,60,Current,Moderate,LHC,Larynx,Glottis,T1a,N0,M0,I,SCC,,,,,NA,no,NA
+130,78.7,Male,ECOG 0,15,Ex-smoker,light,LHC,Larynx,Glottis,T1a,N0,M0,I,SCC,,,,,NA,no,NA
+131,59.9,Male,ECOG 3,20,Current,non-drinker,LHC,Larynx,Glottis,T3,N0,M0,III,SCC,,No,No,No,2.3,no,R- P-
+132,49.6,Female,ECOG 1,35,Current,ex-drinker,LHC,Larynx,Glottis,T4a,N0,M0,IVA,SCC,,No,No,No,2.5,no,R- P-
+134,55.4,Female,ECOG 0,1,Ex-smoker,non-drinker,LHC,Larynx,Supraglottis,T4a,N2c,M0,IVA,SCC,POS,Yes,No,Yes,5.5,no,R+ P+
+135,59.1,Male,ECOG 0,40,Current,ex-drinker,LHC,Hypopharynx,Pyriform Sinus,T2,N2b,M0,IVA,SCC,,,,,NA,no,NA
+136,59.7,Male,ECOG 1,30,Current,ex-drinker,LHC,Larynx,Supraglottis,T3,N2c,M0,IVA,SCC,,,,,NA,no,NA
+138,69.5,Male,ECOG 0,50,Current,Moderate,LHC,Larynx,Glottis,T2,N0,M0,II,SCC,,,,,NA,no,NA
+139,51.5,Female,ECOG 1,30,Current,heavy,LHC,Hypopharynx,Pyriform Sinus,T4a,N2c,M0,IVA,SCC,NEG,,,,NA,no,NA
+140,49.7,Female,ECOG 1,4,Ex-smoker,non-drinker,LHC,Larynx,Glottis,T1a,N0,M0,I,SCC,,,,,NA,no,NA
+141,67.1,Male,ECOG 1,40,Current,ex-drinker,LHC,Hypopharynx,Post-cricoid,T3,N0,M0,III,SCC,,,,,NA,no,NA
+144,58.5,Male,ECOG 0,5,Ex-smoker,Moderate,LHC,Larynx,Glottis,T1a,N0,M0,I,SCC,,,,,NA,no,NA
+145,68.7,Male,ECOG 1,60,Ex-smoker,Moderate,LHC,Larynx,Glottis,T2,N0,M0,II,SCC,,,,,NA,no,NA
+146,77.5,Male,ECOG 1,50,Ex-smoker,non-drinker,LHC,Larynx,Supraglottis,T3,N2c,M0,IVA,SCC,,,,,NA,no,NA
+147,72.2,Female,ECOG 1,30,Current,non-drinker,LHC,Larynx,Supraglottis,T4a,N2c,M0,IVA,SCC,,Yes,Yes,Yes,4.5,no,R+ P+
+148,75.5,Male,ECOG 0,50,Ex-smoker,ex-drinker,LHC,Larynx,Glottis,T1a,N0,M0,I,SCC,,,,,NA,no,NA
+149,64.2,Male,ECOG 0,50,Current,light,LHC,Larynx,Glottis,T3,N0,M0,III,SCC,,,,,NA,no,NA
+150,84.9,Male,ECOG 0,5,Ex-smoker,Moderate,LHC,Larynx,Subglottis,T2,N0,M0,II,SCC,NEG,,,,NA,no,NA
+151,60.2,Male,ECOG 2,70,Current,heavy,LHC,Larynx,Glottis,T4a,N2c,M0,IVA,SCC,,Yes,Yes,Yes,4.2,no,R+ P+
+153,68.6,Female,ECOG 1,80,Current,ex-drinker,LHC,Larynx,Supraglottis,T2,N0,M0,II,SCC,,No,No,Yes,3.6,no,R- P-
+155,43.7,Female,ECOG 0,0,Non-smoker,non-drinker,LHC,Larynx,Supraglottis,T3,N2b,M0,IVA,SCC,,,,,NA,no,NA
+156,83.3,Male,ECOG 0,50,Ex-smoker,non-drinker,LHC,Larynx,Glottis,T3,N0,M0,III,SCC,,,,,NA,no,NA
+157,58.2,Male,ECOG 3,25,Ex-smoker,non-drinker,LHC,Hypopharynx,Pyriform Sinus,T4a,N2b,M0,IVA,SCC,,,,,NA,no,NA
+158,65.2,Female,ECOG 1,15,Ex-smoker,light,LHC,Larynx,Supraglottis,T3,N1,M0,III,SCC,NEG,,,,NA,no,NA
+159,63.6,Male,ECOG 1,45,Ex-smoker,ex-drinker,LHC,Larynx,Glottis,T1,N0,M0,I,SCC,,,,,NA,no,NA
+160,47,Male,ECOG 0,40,Current,heavy,LHC,Larynx,Supraglottis,T2,N0,M0,II,SCC,,No,No,Yes,2.3,no,R- P-
+161,64.3,Male,ECOG 0,22,Current,Moderate,LHC,Larynx,Glottis,T2,N0,M0,II,SCC,,,,,NA,no,NA
+162,66,Male,ECOG 0,50,Current,Moderate,LHC,Larynx,Glottis,T1b,N0,M0,I,SCC,,,,,NA,no,NA
+163,59.9,Male,ECOG 1,80,Current,non-drinker,LHC,Larynx,Subglottis,T4a,N2c,M0,IVA,SCC,,Yes,No,Yes,7,no,R+ P+
+164,77.3,Male,ECOG 0,40,Ex-smoker,light,LHC,Larynx,Glottis,T3,N0,M0,III,SCC,,,,,NA,no,NA
+165,53.6,Male,ECOG 1,33,Ex-smoker,non-drinker,LHC,Larynx,Supraglottis,T2,N0,M0,II,SCC,,,No,No,2.8,no,NA
+166,59.2,Male,ECOG 0,40,Current,heavy,LHC,Larynx,Supraglottis,T3,N2b,M0,IVA,SCC,,,,,NA,no,NA
+167,48.5,Male,ECOG 1,35,Current,light,LHC,Larynx,Glottis,T3,N2c,M0,IVA,SCC,,,,,NA,no,NA
+168,74.8,Male,ECOG 1,50,Current,ex-drinker,Larynx,Larynx,Glottis,T4a,N0,M0,IVA,SCC,,,,,NA,no,NA
+169,75.1,Male,ECOG 0,0,Non-smoker,non-drinker,LHC,Larynx,Glottis,T3,N0,M0,III,SCC,,,,,NA,no,NA
+170,32.3,Male,ECOG 0,1,Current,ex-drinker,LHC,Larynx,Glottis,T2,N0,M0,II,SCC,NEG,No,No,Yes,2.8,no,R- P-
+171,72.2,Male,ECOG 0,75,Ex-smoker,non-drinker,LHC,Larynx,Glottis,T3,N0,M0,III,SCC,,Yes,No,Yes,5.9,no,R- P+
+172,63.7,Male,ECOG 0,50,Current,ex-drinker,LHC,Hypopharynx,Pyriform Sinus,T4a,N2b,M0,IVA,SCC,,,,,NA,no,NA
+173,69.3,Male,ECOG 1,6,Ex-smoker,light,LHC,Larynx,Glottis,T2,N0,M0,II,SCC,,,,,NA,no,NA
+174,27.4,Female,ECOG 0,0,Non-smoker,non-drinker,LHC,Larynx,Glottis,T2,N0,M0,II,SCC,POS,,,,NA,no,NA
+175,62.7,Male,ECOG 4,45,Current,heavy,LHC,Larynx,Supraglottis,T4a,N2c,M0,IVA,SCC,,No,Yes,Yes,6.5,no,R+ P-
+176,79.4,Male,ECOG 0,0,Non-smoker,Moderate,LHC,Larynx,Glottis,T1a,N0,M0,I,SCC,,,,,NA,no,NA
+177,48.9,Male,ECOG 2,30,Current,heavy,LHC,Larynx,Glottis,T4a,N0,M0,IVA,SCC,,No,No,No,3.2,no,R- P-
+178,53,Male,ECOG 1,80,Current,light,LHC,Larynx,Trans- glottis,T4a,N0,M0,IVA,SCC,,No,No,No,6.8,no,R- P-
+179,70.4,Male,ECOG 3,60,Ex-smoker,heavy,LHC,Larynx,Supraglottis,T4a,N3,M0,IVB,SCC,,,,,NA,no,NA
+180,56,Male,ECOG 0,40,Ex-smoker,heavy,LHC,Larynx,Glottis,T2,N0,M0,II,SCC,,,,,NA,no,NA
+181,66.3,Male,ECOG 0,0,Non-smoker,non-drinker,LHC,Larynx,Glottis,T1a,N0,M0,I,SCC,,,,,NA,no,NA
+184,61.9,Male,ECOG 0,27,Current,heavy,LHC,Larynx,Glottis,T4a,N0,M0,IVA,SCC,,No,No,Yes,3.9,no,R- P-
+185,83,Male,ECOG 2,55,Ex-smoker,non-drinker,LHC,Larynx,Glottis,T1a,N0,M0,I,SCC,,,,,NA,no,NA
+187,64.8,Male,ECOG 1,50,Ex-smoker,light,LHC,Larynx,Glottis,T2,N0,M0,II,SCC,,,,,NA,no,NA
+189,55.9,Male,ECOG 0,0,Non-smoker,light,LHC,Larynx,Glottis,T1,N0,M0,I,SCC,,,,,NA,no,NA
+1002,72.6,Male,ECOG 1,40,Ex-smoker,Moderate,Hypopharynx,Hypopharynx,Pyriform Sinus,T3,N2c,M0,IVA,SCC,,,,,NA,no,NA
+1004,74.2,Male,ECOG 1,60,Current,ex-drinker,Hypopharynx,Hypopharynx,Pyriform Sinus,T3,N1,M0,III,SCC,POS,,,,NA,no,NA
+1008,69,Female,ECOG 1,55,Current,non-drinker,Hypopharynx,Hypopharynx,Pyriform Sinus,T2,N2b,M0,IVA,SCC,NEG,,,,NA,no,NA
+1012,59.1,Male,ECOG 1,60,Current,light,Hypopharynx,Hypopharynx,Pyriform Sinus,T1,N0,M0,I,SCC,,,,,NA,yes,NA
+1013,78.5,Male,ECOG 1,10,Ex-smoker,heavy,Hypopharynx,Hypopharynx,Pyriform Sinus,T3,N1,M0,III,SCC,,,,,NA,no,NA
+1014,76.9,Male,ECOG 0,20,Current,ex-drinker,Hypopharynx,Hypopharynx,Pyriform Sinus,T3,N2a,M0,IVA,SCC,,,,,NA,no,NA
+1017,73,Male,ECOG 1,30,Ex-smoker,heavy,Hypopharynx,Hypopharynx,Pyriform Sinus,T2,N2b,M0,IVA,SCC,,,,,NA,no,NA
+1018,79.8,Female,ECOG 1,0,Non-smoker,non-drinker,Hypopharynx,Hypopharynx,Post-cricoid,T2,N1,M0,III,SCC,NEG,,,,NA,no,NA
+1019,61.5,Male,ECOG 1,50,Current,ex-drinker,Hypopharynx,Hypopharynx,Pyriform Sinus,T2,N3,M0,IVB,SCC,NEG,,,,NA,no,NA
+1021,64.3,Female,ECOG 1,0,Non-smoker,non-drinker,Hypopharynx,Hypopharynx,Post-cricoid,T4b,N0,M0,IVB,SCC,,,,,NA,no,NA
+1022,74,Male,ECOG 1,75,Current,ex-drinker,Hypopharynx,Hypopharynx,Pyriform Sinus,T4a,N2c,M0,IVA,SCC,,Yes,No,No,5,no,R+ P+
+1026,66.8,Male,ECOG 1,52,Current,heavy,Hypopharynx,Hypopharynx,Pyriform Sinus,T2,N3,M0,IVB,SCC,NEG,,,,NA,no,NA
+1027,61.6,Male,ECOG 1,50,Current,heavy,Hypopharynx,Hypopharynx,Post-cricoid,T4a,N2c,M0,IVA,SCC,NEG,Yes,No,Yes,3.5,no,R+ P+
+1028,65.9,Male,ECOG 0,0,Non-smoker,non-drinker,Hypopharynx,Hypopharynx,Pyriform Sinus,T3,N2b,M0,IVA,SCC,NEG,,,,NA,no,NA
+1029,50.8,Female,ECOG 0,0,Non-smoker,non-drinker,Hypopharynx,Hypopharynx,Post-cricoid,T3,N2c,M0,IVA,SCC,NEG,,,,NA,no,NA
+1031,45.3,Male,ECOG 0,30,Current,heavy,Hypopharynx,Hypopharynx,Post wall,T3,N0,M0,III,SCC,,No,No,Yes,4,no,R- P-
+1032,62.2,Male,ECOG 2,45,Current,heavy,Hypopharynx,Hypopharynx,Post wall,T3,N2c,M0,IVA,SCC,NEG,,,,NA,no,NA
+1033,50.1,Male,ECOG 1,30,Current,heavy,Hypopharynx,Hypopharynx,Pyriform Sinus,T4b,N2c,M0,IVB,SCC,NEG,,,,NA,no,NA
+1036,65.1,Male,ECOG 0,0,Non-smoker,light,Hypopharynx,Hypopharynx,Pyriform Sinus,T4a,N1,M0,IVA,SCC,NEG,,,,NA,no,NA
+1037,83.2,Male,ECOG 1,65,Ex-smoker,heavy,Hypopharynx,Hypopharynx,Post wall,T2,N2c,M0,IVA,SCC,,,,,NA,no,NA
+1038,52.1,Male,ECOG 0,35,Current,heavy,Hypopharynx,Hypopharynx,Pyriform Sinus,T2,N2b,M0,IVA,SCC,,,,,NA,no,NA
+1039,49.6,Female,ECOG 1,30,Current,light,Hypopharynx,Hypopharynx,Pyriform Sinus,T3,N2c,M0,IVA,SCC,NEG,,,,NA,no,NA
+1040,69.5,Male,ECOG 1,0,Non-smoker,light,Hypopharynx,Hypopharynx,Pyriform Sinus,T4a,N2c,M0,IVA,SCC,NEG,Yes,No,No,5.5,no,R+ P+
+1043,86.7,Male,ECOG 0,0,Non-smoker,unknown,Hypopharynx,Hypopharynx,Pyriform Sinus,T1,N2b,M0,IVA,SCC,NEG,Yes,,,NA,no,R+ P+
+1044,63.9,Male,ECOG 1,40,Current,Moderate,Hypopharynx,Hypopharynx,Pyriform Sinus,T4a,N2c,M0,IVA,SCC,,Yes,No,Yes,3.3,no,R+ P+
+1046,68.6,Male,ECOG 1,0,Non-smoker,non-drinker,Hypopharynx,Hypopharynx,Pyriform Sinus,T3,N3,M0,IVB,SCC,POS,,,,NA,no,NA
+1048,65.9,Male,ECOG 1,50,Current,heavy,Hypopharynx,Hypopharynx,Pyriform Sinus,T2,N2b,M0,IVA,SCC,,,,,NA,no,NA
+1050,57.4,Male,ECOG 1,60,Current,heavy,Hypopharynx,Hypopharynx,Pyriform Sinus,T2,N2c,M0,IVA,SCC,NEG,,,,NA,no,NA
+1051,53.5,Female,ECOG 0,35,Current,heavy,Hypopharynx,Hypopharynx,Pyriform Sinus,T4a,N2b,M0,IVA,SCC,NEG,,,,NA,no,NA
+1057,81.1,Male,ECOG 1,60,Current,Moderate,Larynx,Larynx,Glottis,T2,N0,M0,II,SCC,,,,,NA,no,NA
+1062,60.6,Male,ECOG 1,90,Current,heavy,Larynx,Larynx,Supraglottis,T3,N0,M0,III,SCC,,,,,NA,no,NA
+1063,64.6,Male,ECOG 0,0,Non-smoker,non-drinker,Larynx,Larynx,Glottis,T2,N0,M0,II,SCC,,,,,NA,no,NA
+1066,64,Male,ECOG 1,90,Current,ex-drinker,Larynx,Larynx,Supraglottis,T3,N2b,M0,IVA,SCC,,,,,NA,no,NA
+1068,70.6,Male,ECOG 0,0,Non-smoker,non-drinker,Larynx,Larynx,Glottis,T1b,N0,M0,I,SCC,,,,,NA,yes,NA
+1070,62.8,Male,ECOG 0,40,Current,Moderate,Larynx,Larynx,Glottis,T2,N0,M0,II,SCC,,,,,NA,yes,NA
+1074,59.6,Male,ECOG 1,35,Current,non-drinker,Larynx,Larynx,Supraglottis,T3,N0,M0,III,SCC,,,,,NA,no,NA
+1078,71,Male,ECOG 0,22,Current,light,Larynx,Larynx,Glottis,T1a,N0,M0,I,SCC,,,,,NA,no,NA
+1080,51.9,Male,ECOG 1,35,Current,non-drinker,Larynx,Larynx,Glottis,T3,N0,M0,III,SCC,,,,,NA,no,NA
+1085,73.7,Male,ECOG 0,25,Ex-smoker,heavy,Larynx,Larynx,Glottis,T2,N0,M0,II,SCC,,,,,NA,yes,NA
+1086,79.1,Female,ECOG 1,50,Ex-smoker,heavy,Larynx,Larynx,Glottis,T1a,N0,M0,I,SCC,,,,,NA,no,NA
+1087,68.4,Female,ECOG 1,50,Current,non-drinker,Larynx,Larynx,Glottis,T3,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+1088,78.4,Male,ECOG 1,60,Current,light,Larynx,Larynx,Supraglottis,T3,N1,M0,III,SCC,,,,,NA,no,NA
+1091,68.1,Female,ECOG 1,0,Non-smoker,non-drinker,Larynx,Larynx,Subglottis,T3,N0,M0,III,SCC,NEG,,,,NA,no,NA
+1092,61.7,Male,ECOG 1,30,Current,Moderate,Larynx,Larynx,Supraglottis,T4a,N2b,M0,IVA,SCC,NEG,Yes,No,Yes,6.8,no,R+ P+
+1093,68.4,Male,ECOG 0,30,Current,Moderate,Larynx,Larynx,Supraglottis,T4a,N0,M0,IVA,SCC,NEG,,,,NA,no,NA
+1095,59.7,Male,ECOG 0,41,Current,light,Larynx,Larynx,Glottis,T3,N0,M0,III,SCC,,,,,NA,no,NA
+1097,75.2,Male,ECOG 0,15,Current,Moderate,Larynx,Larynx,Glottis,T2,N0,M0,II,SCC,,,,,NA,yes,NA
+1098,61.4,Male,ECOG 1,40,Current,Moderate,Larynx,Larynx,Supraglottis,T3,N0,M0,III,SCC,,,,,NA,no,NA
+1099,60.6,Female,ECOG 0,45,Current,heavy,Larynx,Larynx,Glottis,T2,N0,M0,II,SCC,NEG,,,,NA,no,NA
+1100,57.7,Male,ECOG 0,30,Current,Moderate,Larynx,Larynx,Glottis,T1a,N0,M0,I,SCC,,,,,NA,yes,NA
+1102,74.5,Male,ECOG 1,40,Ex-smoker,light,Larynx,Larynx,Glottis,T4a,N0,M0,IVA,SCC,,No,Yes,Yes,3.2,no,R- P-
+1105,74.9,Male,ECOG 2,60,Current,heavy,Larynx,Larynx,Supraglottis,T4a,N2c,M0,IVA,SCC,,,,,NA,no,NA
+1106,58.8,Male,ECOG 0,0,Non-smoker,light,Larynx,Larynx,Glottis,T1a,N0,M0,I,SCC,,,,,NA,no,NA
+1107,69.9,Male,ECOG 0,45,Ex-smoker,non-drinker,Larynx,Larynx,Glottis,T2,N0,M0,II,SCC,NEG,,,,NA,no,NA
+1108,66.5,Male,ECOG 2,40,Current,heavy,Larynx,Larynx,Glottis,T1a,N0,M0,,SCC,,,,,NA,yes,NA
+1111,67.5,Male,ECOG 1,0,Non-smoker,light,Larynx,Larynx,Supraglottis,T2,N0,M0,II,SCC,NEG,,,,NA,no,NA
+1112,71.1,Male,ECOG 1,25,Ex-smoker,ex-drinker,Larynx,Larynx,Glottis,T2,N0,M0,II,SCC,,,,,NA,no,NA
+1114,73.6,Male,ECOG 1,50,Current,heavy,Larynx,Larynx,Supraglottis,T2,N0,M0,II,SCC,,,,,NA,yes,NA
+1115,59.3,Female,ECOG 1,0,Non-smoker,non-drinker,Larynx,Larynx,Supraglottis,T2,N0,M0,II,SCC,,,,,NA,no,NA
+1117,60.9,Male,ECOG 0,45,Current,non-drinker,Larynx,Larynx,Supraglottis,T2,N0,M0,II,SCC,NEG,,,,NA,no,NA
+1118,60.2,Male,ECOG 0,45,Ex-smoker,heavy,Larynx,Larynx,Glottis,T1a,N0,M0,I,SCC,NEG,,,,NA,yes,NA
+1122,69.4,Male,ECOG 1,25,Current,Moderate,Larynx,Larynx,Supraglottis,T2,N0,M0,II,SCC,,,,,NA,no,NA
+1127,64.1,Male,ECOG 1,40,Current,non-drinker,Larynx,Larynx,Glottis,T1a,N0,M0,I,SCC,,,,,NA,no,NA
+1128,61.1,Male,ECOG 0,30,Ex-smoker,light,Larynx,Larynx,Glottis,T1a,N0,M0,I,SCC,,,,,NA,no,NA
+1130,63.6,Male,ECOG 1,45,Ex-smoker,Moderate,Larynx,Larynx,Supraglottis,T2,N0,M0,II,SCC,,,,,NA,no,NA
+1131,67,Male,ECOG 0,50,Current,Moderate,Larynx,Larynx,Supraglottis,T3,N3,M0,IVB,SCC,,,,,NA,no,NA
+1135,71,Female,ECOG 0,40,Ex-smoker,non-drinker,Larynx,Larynx,Glottis,T2,N0,M0,II,SCC,POS,,,,NA,no,NA
+1136,56.1,Male,ECOG 0,10,Current,light,Larynx,Larynx,Glottis,T4a,N0,M0,IVA,SCC,NEG,Yes,No,Yes,3.1,no,R- P+
+1138,84.6,Male,ECOG 1,15,Ex-smoker,light,Larynx,Larynx,Glottis,T1a,N0,M0,I,SCC,,,,,NA,yes,NA
+1140,27.4,Male,ECOG 1,5,Ex-smoker,non-drinker,Larynx,Larynx,Glottis,T3,N0,M0,III,SCC,,,,,NA,no,NA
+1142,72,Male,ECOG 1,4,Ex-smoker,light,Larynx,Larynx,Glottis,T2,N0,M0,II,SCC,NEG,,,,NA,no,NA
+1143,78.4,Male,ECOG 0,0,Non-smoker,light,Larynx,Larynx,Glottis,T2,N0,M0,II,SCC,,,,,NA,no,NA
+1144,63.8,Female,ECOG 0,40,Ex-smoker,light,Larynx,Larynx,Glottis,T3,N0,M0,III,SCC,,,,,NA,no,NA
+1145,68.8,Male,ECOG 0,40,Ex-smoker,light,Larynx,Larynx,Glottis,T1a,N0,M0,I,SCC,,,,,NA,yes,NA
+1150,46.4,Male,ECOG 1,0,Non-smoker,non-drinker,Larynx,Larynx,Supraglottis,T4a,N2b,M0,IVA,SCC,NEG,Yes,Yes,Yes,7.5,no,R+ P+
+1151,70,Male,ECOG 1,15,Ex-smoker,Moderate,Larynx,Larynx,Glottis,T4a,N2c,M0,IVA,SCC,,,,,NA,no,NA
+1163,88.4,Male,ECOG 1,0,Non-smoker,non-drinker,Larynx,Larynx,Glottis,T1a,N0,M0,I,SCC,,,,,NA,no,NA
+1165,72.8,Male,ECOG 0,20,Current,heavy,Larynx,Larynx,Glottis,T2,N0,M0,II,SCC,NEG,,,,NA,yes,NA
+1170,66.5,Male,ECOG 1,50,Ex-smoker,ex-drinker,Larynx,Larynx,Supraglottis,T3,N0,M0,III,SCC,,,,,NA,no,NA
+1171,81,Male,ECOG-Pt 0,40,Ex-smoker,light,Larynx,Larynx,Supraglottis,T2,N2b,M0,IVA,SCC,NEG,,,,NA,no,NA
+1172,57.4,Female,ECOG 0,40,Current,ex-drinker,Larynx,Larynx,Supraglottis,T1,N0,M0,I,SCC,NEG,,,,NA,no,NA
+1174,60.7,Male,ECOG 0,35,Ex-smoker,light,Larynx,Larynx,Glottis,T3,N2b,M0,IVA,SCC,NEG,,,,NA,no,NA
+1176,72.5,Male,ECOG 0,30,Ex-smoker,non-drinker,Larynx,Larynx,Glottis,T2,N0,M0,II,SCC,NEG,,,,NA,no,NA
+1177,64.8,Male,ECOG 0,50,Current,ex-drinker,Larynx,Larynx,Glottis,T2,N0,M0,II,SCC,NEG,,,,NA,no,NA
+1187,68.1,Male,ECOG 0,20,Ex-smoker,Moderate,Larynx,Larynx,Supraglottis,T3,N1,M0,III,SCC,POS,,,,NA,no,NA
+1192,68.3,Male,ECOG 0,,unknown,unknown,Larynx,Larynx,Glottis,T2,N0,M0,II,SCC,NEG,,,,NA,no,NA
+1193,67.1,Male,ECOG 0,100,Ex-smoker,ex-drinker,Larynx,Larynx,Glottis,T1b,N0,M0,I,SCC,,,,,NA,no,NA
+1194,81.8,Male,ECOG 1,65,Current,light,Larynx,Larynx,Glottis,T3,N0,M0,III,SCC,,,,,NA,no,NA
+1195,75.7,Male,ECOG 1,60,Ex-smoker,Moderate,Larynx,Larynx,Glottis,T3,N0,M0,III,SCC,,,,,NA,no,NA
+1197,79.2,Male,ECOG 1,34,Ex-smoker,heavy,Larynx,Larynx,Glottis,T1,N2b,M0,IVA,SCC,,,,,NA,no,NA
+1198,59.8,Male,ECOG 0,50,Current,heavy,Larynx,Larynx,Glottis,T3,N0,M0,III,SCC,,,,,NA,no,NA
+1201,61.4,Male,ECOG 0,30,Ex-smoker,non-drinker,Larynx,Larynx,Glottis,T3,N0,M0,III,SCC,,,,,NA,no,NA
+1202,60.9,Male,ECOG 1,45,Current,unknown,Larynx,Larynx,Glottis,T4a,N2c,M0,IVA,SCC,,Yes,Yes,No,6,no,R+ P+
+1204,55.4,Male,ECOG 1,35,Current,heavy,Larynx,Larynx,Glottis,T2,N0,M0,II,SCC,,,,,NA,no,NA
+1206,54.2,Female,ECOG 1,40,Ex-smoker,non-drinker,Larynx,Larynx,Supraglottis,T3,N2c,M0,IVA,SCC,POS,,,,NA,no,NA
+1207,79.7,Male,ECOG 1,25,Ex-smoker,light,Larynx,Larynx,Glottis,T3,N0,M0,III,SCC,,,,,NA,no,NA
+1208,74.8,Male,ECOG 1,25,Current,heavy,Larynx,Larynx,Glottis,T3,N0,M0,III,SCC,,,,,NA,no,NA
+1211,58.4,Male,ECOG 0,62,Ex-smoker,Moderate,Larynx,Larynx,Glottis,T1b,N0,M0,I,SCC,,,,,NA,no,NA
+1213,52,Male,ECOG 1,0,unknown,unknown,Larynx,Larynx,Supraglottis,T4,N0,M0,IV,SCC,NEG,,,,NA,no,NA
+1218,54.5,Female,ECOG 0,40,Current,heavy,Larynx,Larynx,Supraglottis,T2,N2c,M0,IVA,SCC,NEG,,,,NA,no,NA
+1220,73.2,Female,ECOG 1,40,Current,non-drinker,Larynx,Larynx,Supraglottis,T3,N2b,M0,IVA,SCC,,,,,NA,no,NA
+1225,69.6,Male,ECOG 0,50,Current,heavy,Larynx,Larynx,Glottis,T2,N0,M0,II,SCC,,,,,NA,yes,NA
+1226,68.1,Male,ECOG 1,75,Current,unknown,Larynx,Larynx,Glottis,T2,N1,M0,III,SCC,NEG,,,,NA,no,NA
+1227,69.5,Male,ECOG 0,10,Ex-smoker,light,Larynx,Larynx,Glottis,T2,N0,M0,II,SCC,,,,,NA,no,NA
+1231,67.2,Male,ECOG 1,1,Ex-smoker,light,Larynx,Larynx,Glottis,T2,N0,M0,II,SCC,,,,,NA,no,NA
+1232,63.8,Male,ECOG 0,20,Ex-smoker,light,Larynx,Larynx,Glottis,T1a,N0,M0,I,SCC,NEG,,,,NA,yes,NA
+1235,62.7,Male,ECOG 0,30,Current,heavy,Larynx,Larynx,Supraglottis,T2,N0,M0,II,SCC,NEG,,,,NA,yes,NA
+1237,54.4,Female,ECOG 1,25,Ex-smoker,unknown,Larynx,Larynx,Supraglottis,T4a,N2c,M0,IVA,SCC,,Yes,Yes,No,5.3,yes,R+ P+
+1238,72.5,Male,ECOG 0,20,Current,light,Larynx,Larynx,Supraglottis,T4a,N2c,M0,IVA,SCC,,Yes,No,No,5.6,no,R+ P+
+1240,74.3,Male,ECOG 1,50,Current,heavy,Larynx,Larynx,Glottis,T2,N0,M0,II,SCC,NEG,,,,NA,no,NA
+1244,72.1,Female,ECOG 2,110,Current,non-drinker,Larynx,Larynx,Glottis,T1b,N0,M0,I,SCC,,,,,NA,no,NA
+1246,69.6,Male,ECOG 1,30,Ex-smoker,unknown,Larynx,Larynx,Glottis,T2,N1,M0,III,SCC,,,,,NA,no,NA
+1251,75.6,Male,ECOG 0,0,Non-smoker,non-drinker,Larynx,Larynx,Glottis,T1a,N0,M0,I,SCC,,,,,NA,no,NA
+1252,71.1,Female,ECOG 1,60,Current,non-drinker,Larynx,Larynx,Supraglottis,T3,N0,M0,III,SCC,NEG,,,,NA,no,NA
+1254,53.6,Male,ECOG 0,30,Current,light,Larynx,Larynx,Glottis,T1a,N0,M0,I,SCC,,,,,NA,yes,NA
+1256,83.3,Male,ECOG 1,50,Ex-smoker,light,Larynx,Larynx,Glottis,T1a,N0,M0,I,SCC,,,,,NA,no,NA
+1258,55.8,Male,ECOG 0,40,Current,non-drinker,Larynx,Larynx,Glottis,T2,N0,M0,II,SCC,,,,,NA,no,NA
+1259,60.1,Male,ECOG 0,44,Current,non-drinker,Larynx,Larynx,Glottis,T2,N0,M0,II,SCC,,,,,NA,no,NA
+1261,57.1,Male,ECOG 0,20,Current,light,Larynx,Larynx,Glottis,T1b,N0,M0,I,SCC,,,,,NA,no,NA
+1264,49.4,Male,ECOG 0,15,Ex-smoker,light,Larynx,Larynx,Glottis,T2,N0,M0,II,SCC,,,,,NA,no,NA
+1266,56.4,Male,ECOG 1,7,Ex-smoker,Moderate,Larynx,Larynx,Supraglottis,T2,N0,M0,II,SCC,,,,,NA,no,NA
+1268,61.6,Male,ECOG 0,45,Current,light,Larynx,Larynx,Glottis,T2,N0,M0,II,SCC,,,,,NA,no,NA
+1274,66.2,Male,ECOG 0,0,Non-smoker,ex-drinker,Larynx,Larynx,Glottis,T2,N0,M0,II,SCC,NEG,,,,NA,no,NA
+1276,59,Male,ECOG 0,0,Non-smoker,Moderate,Larynx,Larynx,Glottis,T1a,N0,M0,I,SCC,,,,,NA,no,NA
+1280,52.3,Male,ECOG 1,50,Current,heavy,Larynx,Larynx,Supraglottis,T3,N0,M0,III,SCC,NEG,,,,NA,no,NA
+1289,87,Male,ECOG 2,0,Non-smoker,non-drinker,Larynx,Larynx,Supraglottis,T3,N0,M0,III,SCC,,,,,NA,no,NA
+1290,52.6,Male,ECOG 0,1,Ex-smoker,light,Larynx,Larynx,Glottis,T2,N0,M0,II,SCC,NEG,,,,NA,no,NA
+1291,69.7,Female,ECOG 0,30,Current,light,Larynx,Larynx,Supraglottis,T2,N0,M0,II,SCC,,,,,NA,no,NA
+1292,57.3,Male,ECOG 0,80,Current,Moderate,LHC,Larynx,Glottis,T4a,N0,M0,IVA,SCC,,No,No,No,4.5,no,R- P-
+1295,64.8,Male,ECOG 0,0,Non-smoker,Moderate,Larynx,Larynx,Supraglottis,T1,N0,M0,I,SCC,POS,,,,NA,no,NA
+1296,81.6,Male,ECOG 0,100,Current,Moderate,Larynx,Larynx,Glottis,T2,N0,M0,II,SCC,,,,,NA,no,NA
+1298,74.8,Male,ECOG 1,50,Current,ex-drinker,LHC,Larynx,Glottis,T4a,N0,M0,IVA,SCC,,,,,NA,no,NA
+1300,65.1,Female,ECOG 0,50,Current,non-drinker,Larynx,Larynx,Supraglottis,T3,N2b,M0,IVA,SCC,,,,,NA,no,NA
+1305,57.3,Male,ECOG 0,60,Current,light,Larynx,Larynx,Glottis,T2,N0,M0,II,SCC,,,,,NA,no,NA
+1306,54.7,Male,ECOG 0,60,Ex-smoker,heavy,Larynx,Larynx,Glottis,T1a,N0,M0,I,SCC,,,,,NA,no,NA
+1309,77.9,Male,ECOG 0,50,Current,unknown,Larynx,Larynx,Glottis,T3,N0,M0,III,SCC,,,,,NA,no,NA
+10000001,80.1,Female,ECOG 1,0,Non-smoker,non-drinker,OSCC,Lip & Oral Cavity,Tongue,T2,N0,M0,II,SCC,,,,,NA,no,NA
+10000002,64.4,Male,ECOG 0,100,Current,heavy,OSCC,Lip & Oral Cavity,Floor of Mouth,T2,N0,M0,II,SCC,,,,,NA,no,NA
+10000004,59,Male,ECOG 0,35,Current,heavy,OSCC,Lip & Oral Cavity,Floor of Mouth,T4a,N2c,M0,IVA,SCC,,Yes,Yes,No,4.5,no,R+ P+
+10000005,59.4,Male,ECOG 0,20,Current,,OSCC,Lip & Oral Cavity,Lower Lip,T2,N1,M0,III,SCC,,Yes,No,No,2.8,no,R+ P+
+10000008,80.5,Female,ECOG 1,0,Non-smoker,non-drinker,OSCC,Lip & Oral Cavity,Lower Alveolus & Gingiva,T3,N0,M0,III,SCC,,No,No,No,5.2,no,R- P-
+10000009,44.6,Male,ECOG 0,0,Non-smoker,non-drinker,OSCC,Lip & Oral Cavity,Tongue,T4a,N2b,M0,IVA,SCC,,Yes,No,Yes,8,no,R+ P+
+10000011,54.2,Female,ECOG 1,0,Non-smoker,non-drinker,OSCC,Lip & Oral Cavity,Buccal Mucosa,T1,N0,M0,I,SCC,,No,No,No,1.6,no,R- P-
+10000012,54.7,Male,ECOG 1,15,Ex-smoker,non-drinker,OSCC,Lip & Oral Cavity,Lower Alveolus & Gingiva,T4a,N0,M0,IVA,SCC,,No,No,No,4.5,no,R- P-
+10000014,61.9,Male,ECOG 1,0,Non-smoker,non-drinker,OSCC,Lip & Oral Cavity,Buccal Mucosa,T2,N1,M0,III,SCC,,No,,,NA,no,R+ P-
+10000015,58.7,Male,ECOG 1,20,Current,heavy,OSCC,Lip & Oral Cavity,Floor of Mouth,T2,N2c,M0,IVA,SCC,,Yes,No,No,2.1,no,R+ P+
+10000017,65.7,Male,ECOG 1,30,Ex-smoker,non-drinker,OSCC,Lip & Oral Cavity,Tongue,T2,N2a,M0,IVA,SCC,,Yes,No,No,3,no,R+ P+
+10000018,53.9,Female,ECOG 1,16.5,Current,light,OSCC,Lip & Oral Cavity,Retromolar Trigone,T4a,N0,M0,IVA,SCC,,No,No,Yes,2.2,no,R- P-
+10000023,43.8,Male,ECOG 1,4,Current,ex-drinker,OSCC,Lip & Oral Cavity,Retromolar Trigone,T4a,N2b,M0,IVA,SCC,,Yes,No,No,2.9,no,R+ P+
+10000025,66.3,Female,ECOG 0,0,Non-smoker,non-drinker,OSCC,Lip & Oral Cavity,Lower Alveolus & Gingiva,T4a,N0,M0,IVA,SCC,,No,No,No,5,no,R- P-
+10000026,56.2,Male,ECOG 0,0,Non-smoker,non-drinker,Lip & Oral Cavity,Lip & Oral Cavity,Tongue,T2,N0,M0,II,SCC,,No,No,Yes,2.9,no,R- P-
+10000027,62.7,Male,ECOG 1,30,Current,light,OSCC,Lip & Oral Cavity,Upper Alveolus & Gingiva,T4a,N0,M0,IVA,SCC,,No,No,No,2.5,no,R- P-
+10000030,84.39,Male,ECOG 1,5,Ex-smoker,non-drinker,OSCC,Lip & Oral Cavity,Buccal Mucosa,T3,N1,M0,III,SCC,,,,,NA,no,NA
+10000031,73.95,Female,ECOG 2,0,Non-smoker,non-drinker,Lip & Oral Cavity,Lip & Oral Cavity,Tongue,T4b,N2c,M0,IVB,SCC,,,,,NA,no,NA
+10000033,73.03,Male,ECOG 0,40,Ex-smoker,,OSCC,Lip & Oral Cavity,Buccal Mucosa,T2,N1,M0,III,SCC,,Yes,Yes,No,3,no,R+ P+
+10000034,36.85,Male,ECOG 0,0,Non-smoker,non-drinker,OSCC,Lip & Oral Cavity,Upper Alveolus & Gingiva,T4a,N1,M0,IVA,SCC,,Yes,No,No,4.6,no,R+ P+
+10000035,59.23,Male,ECOG 0,45,Current,heavy,OSCC,Lip & Oral Cavity,Floor of Mouth,T4a,N2c,M0,IVA,SCC,,Yes,No,Yes,5.5,no,R+ P+
+10000036,59.17,Male,ECOG 1,30,Current,heavy,OSCC,Lip & Oral Cavity,Tongue,T3,N0,M0,III,SCC,,,No,Yes,4.1,no,NA
+10000037,76.55,Male,ECOG 0,15,Ex-smoker,heavy,OSCC,Lip & Oral Cavity,Retromolar Trigone,T4a,N2b,M0,IVA,SCC,,Yes,No,No,4,no,R+ P+
+10000038,59.14,Male,ECOG 1,44,Current,light,OSCC,Lip & Oral Cavity,Tongue,T1,N2b,M0,IVA,SCC,,Yes,No,Yes,1.8,no,R+ P+
+10000039,23.85,Female,ECOG 1,0,Non-smoker,non-drinker,OSCC,Lip & Oral Cavity,Tongue,T2,N0,M0,II,SCC,NEG,No,No,Yes,3.4,no,R- P-
+10000040,77.94,Male,ECOG 1,25,Ex-smoker,non-drinker,OSCC,Lip & Oral Cavity,Buccal Mucosa,T2,N2b,M0,IVA,SCC,,Yes,No,Yes,2.4,no,R+ P+
+10000041,85.36,Male,ECOG 1,80,Ex-smoker,heavy,OSCC,Lip & Oral Cavity,Retromolar Trigone,T3,N2b,M0,IVA,SCC,,,,,NA,no,NA
+10000042,61.03,Female,ECOG 1,0,Non-smoker,non-drinker,OSCC,Lip & Oral Cavity,Tongue,T3,N1,M0,IVA,SCC,,Yes,No,Yes,4.3,no,R+ P+
+10000043,85,Male,ECOG 0,0,Non-smoker,non-drinker,OSCC,Lip & Oral Cavity,Hard Palate,T4a,N2a,M0,IVA,SCC,,,,,NA,no,NA
+10000044,67.05,Female,ECOG 1,0,Non-smoker,non-drinker,OSCC,Lip & Oral Cavity,Floor of Mouth,T4a,N1,M0,IVA,SCC,,Yes,No,No,4,no,R+ P+
+10000045,61.26,Male,ECOG 0,5,Current,non-drinker,OSCC,Lip & Oral Cavity,Buccal Mucosa,T4a,N1,M0,IVA,SCC,,Yes,No,No,3.9,no,R+ P+
+10000046,56.22,Female,ECOG 0,0,Non-smoker,non-drinker,OSCC,Lip & Oral Cavity,Lower Alveolus & Gingiva,T4a,N0,M0,IVA,SCC,,No,No,No,3,no,R- P-
+10000047,83.48,Male,ECOG 0,0,Non-smoker,non-drinker,OSCC,Lip & Oral Cavity,Buccal Mucosa,T3,N1,M0,III,SCC,,No,,,NA,no,R+ P-
+10000048,52.14,Male,ECOG 0,10,Ex-smoker,,OSCC,Lip & Oral Cavity,Tongue,T3,N0,M0,,SCC,,No,No,Yes,5,no,R- P-
+10000049,66.66,Male,ECOG 2,40,Current,non-drinker,OSCC,Lip & Oral Cavity,Floor of Mouth,T4,N1,M0,IVA,SCC,,Yes,Yes,Yes,5.5,no,R+ P+
+10000050,86.23,Female,ECOG 0,0,Non-smoker,non-drinker,OSCC,Lip & Oral Cavity,Lower Alveolus & Gingiva,T4a,N1,M0,IVA,SCC,,,,,NA,no,NA
+10000051,80.88,Female,ECOG 2,0,Non-smoker,non-drinker,OSCC,Lip & Oral Cavity,Floor of Mouth,T4a,N2b,M0,IVA,SCC,,,No,No,2.7,no,NA
+10000053,60.26,Male,ECOG 0,35,Ex-smoker,ex-drinker,OSCC,Lip & Oral Cavity,Floor of Mouth,T2,N1,M0,III,SCC,,Yes,No,Yes,2.5,no,R+ P+
+10000054,52.34,Female,ECOG 0,35,Current,non-drinker,Lip & Oral Cavity,Lip & Oral Cavity,Tongue,T2,N0,M0,II,SCC,,No,No,Yes,2.6,no,R- P-
+10000055,60.28,Male,ECOG 0,46,Current,heavy,Lip & Oral Cavity,Lip & Oral Cavity,Tongue,T3,N2c,M0,IVA,SCC,,Yes,No,Yes,5.6,no,R+ P+
+10000057,61.96,Male,ECOG 0,20,Current,heavy,OSCC,Lip & Oral Cavity,Floor of Mouth,T4a,N0,M0,IVA,SCC,,No,No,Yes,1.8,no,R- P-
+10000058,59.02,Male,ECOG 0,45,Current,light,OSCC,Lip & Oral Cavity,Floor of Mouth,T4a,N2c,M0,IVA,SCC,,,No,Yes,3.1,no,NA
+10000059,71.07,Female,ECOG 0,50,Current,Moderate,OSCC,Lip & Oral Cavity,Tongue,T1,N0,M0,I,SCC,,,No,No,2.5,no,NA
+10000060,58.92,Male,ECOG 1,45,Current,heavy,OSCC,Lip & Oral Cavity,Floor of Mouth,T4a,N0,M0,IVA,SCC,NEG,,No,No,3.6,no,NA
+10000061,48.29,Male,ECOG 1,45,Current,heavy,OSCC,Lip & Oral Cavity,Floor of Mouth,T4a,N1,M0,IVA,SCC,,Yes,No,No,3.5,no,R+ P+
+10000062,78,Male,ECOG 1,50,Ex-smoker,ex-drinker,OSCC,Lip & Oral Cavity,Floor of Mouth,T1,N0,M0,I,SCC,NEG,,,,NA,no,NA
+10000063,52.31,Male,ECOG 1,10,Current,light,Lip & Oral Cavity,Lip & Oral Cavity,Tongue,T2,N1,M0,III,SCC,,Yes,No,No,3.6,no,R+ P+
+10000065,68.96,Male,ECOG 1,50,Current,Moderate,OSCC,Lip & Oral Cavity,Lower Alveolus & Gingiva,T4a,N2b,M0,IVA,SCC,,Yes,No,Yes,2.2,no,R+ P+
+10000066,82.94,Male,ECOG 0,50,Ex-smoker,unknown,OSCC,Lip & Oral Cavity,Lower Lip,T2,N0,M0,II,SCC,,,,,NA,no,NA
+10000068,44.64,Male,ECOG 0,0,Non-smoker,non-drinker,OSCC,Lip & Oral Cavity,Buccal Mucosa,T3,N2b,M0,IVA,SCC,,Yes,No,No,5,no,R+ P+
+10000069,68.87,Male,Unknown,1,Ex-smoker,non-drinker,OSCC,Lip & Oral Cavity,Floor of Mouth,T4a,N2b,M0,IVA,SCC,,Yes,No,No,4,no,R+ P+
+10000071,45.8,Male,ECOG 0,0,Non-smoker,non-drinker,OSCC,Lip & Oral Cavity,Tongue,T2,N0,M0,II,SCC,,No,No,Yes,4,no,R- P-
+10000072,70.4,Female,ECOG 0,0,Non-smoker,non-drinker,OSCC,Lip & Oral Cavity,Tongue,T2,N0,M0,II,SCC,NEG,No,No,Yes,2.6,no,R- P-
+10000073,66.23,Female,ECOG 1,40,Current,ex-drinker,OSCC,Lip & Oral Cavity,Tongue,T4a,N0,M0,IVA,SCC,,No,No,Yes,4.8,no,R- P-
+10000074,66.27,Female,ECOG 0,0,Non-smoker,non-drinker,OSCC,Lip & Oral Cavity,Upper Alveolus & Gingiva,TX,N0,M0,,SCC,,,No,No,1.7,no,NA
+10000075,62.14,Female,ECOG 1,35,Current,light,OSCC,Lip & Oral Cavity,Floor of Mouth,T4a,N2c,M0,IVA,SCC,,Yes,No,Yes,5.3,no,R+ P+
+10000076,72.37,Female,ECOG 1,0,Non-smoker,non-drinker,OSCC,Lip & Oral Cavity,Lower Alveolus & Gingiva,T4a,N0,M0,IVA,SCC,,,No,Yes,5.4,no,NA
+10000077,47.43,Male,ECOG 0,5,Ex-smoker,non-drinker,OSCC,Lip & Oral Cavity,Tongue,T2,N0,M0,II,SCC,,No,No,Yes,3.5,no,R- P-
+10000078,50.55,Male,ECOG 0,35,Current,light,OSCC,Lip & Oral Cavity,Upper Alveolus & Gingiva,T4a,N1,M0,IVA,SCC,,Yes,No,No,4.7,no,R+ P+
+10000080,73.39,Male,ECOG 0,50,Current,ex-drinker,OSCC,Lip & Oral Cavity,Retromolar Trigone,T2,N0,M0,II,SCC,,No,No,Yes,3.3,no,R- P-
+10000081,67.76,Female,ECOG 2,0,Non-smoker,non-drinker,OSCC,Lip & Oral Cavity,Floor of Mouth,T4a,N0,M0,IVA,SCC,,,No,Yes,3.7,no,NA
+10000082,48.05,Male,ECOG 2,0,unknown,unknown,OSCC,Lip & Oral Cavity,Hard Palate,T4a,N0,M0,IVA,SCC,,,No,No,2.3,no,NA
+10000083,48.78,Female,ECOG 0,0,Non-smoker,non-drinker,OSCC,Lip & Oral Cavity,Tongue,T2,N2b,M0,IVA,SCC,,Yes,No,Yes,3.8,no,R+ P+
+10000084,89.55,Male,ECOG 2,70,Current,ex-drinker,OSCC,Lip & Oral Cavity,Upper Alveolus & Gingiva,T3,N0,M0,III,SCC,,,,,NA,no,NA
+10000085,77.14,Male,ECOG 0,60,Current,heavy,OSCC,Lip & Oral Cavity,Buccal Mucosa,T3,N0,M0,III,SCC,,,,,NA,no,NA
+10000086,61.06,Female,ECOG 1,0,Non-smoker,non-drinker,OSCC,Lip & Oral Cavity,Retromolar Trigone,T4b,N0,M0,IVB,SCC,,No,No,Yes,8.5,no,R- P-
+10000087,77.87,Male,ECOG 3,0,Non-smoker,light,OSCC,Lip & Oral Cavity,Buccal Mucosa,T2,N0,M0,II,SCC,,,,,NA,no,NA
+10000088,65.03,Male,ECOG 1,25,Current,heavy,OSCC,Lip & Oral Cavity,Floor of Mouth,T4a,N2b,M0,IVA,SCC,,Yes,No,No,2.9,no,R+ P+
+10000089,58.73,Male,ECOG 0,20,Ex-smoker,ex-drinker,OSCC,Lip & Oral Cavity,Floor of Mouth,T2,N0,M0,II,SCC,,No,No,No,3.2,no,R- P-
+10000091,29.36,Female,ECOG 0,5,Current,,OSCC,Lip & Oral Cavity,Tongue,T1,N0,M0,I,SCC,,No,No,Yes,1.5,no,R- P-
+10000092,61.69,Male,,,Ex-smoker,non-drinker,OSCC,Lip & Oral Cavity,Buccal Mucosa,T2,N0,M0,II,SCC,,No,No,No,3,no,R- P-
+10000094,63.58,Male,ECOG 1,5,Ex-smoker,light,OSCC,Lip & Oral Cavity,Floor of Mouth,T4a,N0,M0,IVA,SCC,,No,No,No,3,no,R- P-
+10000095,53.04,Male,ECOG 0,0,Non-smoker,non-drinker,OSCC,Lip & Oral Cavity,Buccal Mucosa,,,,,SCC,,No,No,No,2.8,no,NA
+10000096,59.18,Male,Unknown,45,Current,non-drinker,OSCC,Lip & Oral Cavity,Floor of Mouth,T1,N0,M0,I,SCC,,No,No,No,0.5,no,R- P-
+10000098,77.41,Male,ECOG 0,0,Non-smoker,non-drinker,OSCC,Lip & Oral Cavity,Hard Palate,T4a,N0,M0,IVA,SCC,,,No,No,3.4,no,NA
+10000099,59.27,Female,ECOG 0,5,Current,Moderate,OSCC,Lip & Oral Cavity,Tongue,T1,N0,M0,I,SCC,,No,No,Yes,0.9,no,R- P-
+10000100,70.06,Female,Unknown,0,Non-smoker,non-drinker,OSCC,Lip & Oral Cavity,Buccal Mucosa,T1,N0,M0,I,SCC,,No,No,No,1.6,no,R- P-
+10000101,51.39,Male,ECOG 0,25,Current,Moderate,OSCC,Lip & Oral Cavity,Tongue,T3,N1,M0,III,SCC,,Yes,No,Yes,5,no,R+ P+
+10000102,76,Female,ECOG 0,0,Non-smoker,light,OSCC,Lip & Oral Cavity,Upper Alveolus & Gingiva,T2,N0,M0,II,SCC,,,No,No,3,no,NA
+10000103,68.91,Male,ECOG 0,45,Ex-smoker,ex-drinker,OSCC,Lip & Oral Cavity,Buccal Mucosa,T1,N0,M0,I,SCC,,Yes,No,No,1.7,no,R- P+
+10000104,53.86,Male,ECOG 1,12,Current,Moderate,OSCC,Lip & Oral Cavity,Tongue,T3,N2c,M0,IVA,SCC,NEG,Yes,No,Yes,5,no,R+ P+
+10000105,80.56,Male,ECOG 0,0,Non-smoker,Moderate,OSCC,Lip & Oral Cavity,Retromolar Trigone,T4,N0,M0,IVA,SCC,,No,No,Yes,5,no,R- P-
+10000106,84.95,Female,ECOG 2,0,Non-smoker,light,OSCC,Lip & Oral Cavity,Lower Alveolus & Gingiva,T3,N1,M0,III,SCC,,,No,No,4.9,no,NA
+10000107,59.1,Male,ECOG 0,75,Current,ex-drinker,OSCC,Lip & Oral Cavity,Floor of Mouth,T1,N1,M0,III,SCC,,Yes,No,Yes,2,no,R+ P+
+10000109,64.23,Male,ECOG 0,20,Current,heavy,OSCC,Lip & Oral Cavity,Tongue,T2,N2b,M0,IVA,SCC,,Yes,No,No,2.5,no,R+ P+
+10000110,67.1,Male,ECOG 1,5,Ex-smoker,non-drinker,OSCC,Lip & Oral Cavity,Retromolar Trigone,T2,N0,M0,II,SCC,,No,No,Yes,3.3,no,R- P-
+10000111,79.62,Male,ECOG 0,0,Non-smoker,non-drinker,OSCC,Lip & Oral Cavity,Tongue,T1,N0,M0,I,SCC,,No,No,Yes,2,no,R- P-
+10000113,72.85,Female,ECOG 1,50,Ex-smoker,non-drinker,OSCC,Lip & Oral Cavity,Floor of Mouth,T2,N0,M0,II,SCC,,No,Yes,Yes,2.1,no,R- P-
+10000115,57.56,Female,ECOG 1,0,Non-smoker,non-drinker,OSCC,Lip & Oral Cavity,Hard Palate,T4a,N0,M0,IVA,SCC,,,,,NA,no,NA
+10000116,63.51,Male,ECOG 0,30,Current,non-drinker,OSCC,Lip & Oral Cavity,Buccal Mucosa,T2,N0,M0,II,SCC,,No,No,Yes,2.5,no,R- P-
+10000117,76.45,Female,ECOG 0,1,Ex-smoker,non-drinker,OSCC,Lip & Oral Cavity,Lower Alveolus & Gingiva,T2,N1,M0,III,SCC,,Yes,No,No,3.9,no,R+ P+
+10000118,46.51,Male,ECOG 1,0,Non-smoker,ex-drinker,OSCC,Lip & Oral Cavity,Tongue,T3,N2b,M0,IVA,SCC,,Yes,No,Yes,4.9,no,R+ P+
+10000119,63.04,Female,ECOG 0,0,Non-smoker,non-drinker,OSCC,Lip & Oral Cavity,Lower Lip,T1,N2b,M0,IVA,SCC,,Yes,No,Yes,1.1,no,R+ P+
+10000120,67.58,Male,ECOG 1,40,Ex-smoker,light,OSCC,Lip & Oral Cavity,Retromolar Trigone,T2,N0,M0,II,SCC,,No,No,Yes,2.6,no,R- P-
+10000121,61.46,Male,ECOG 0,50,Ex-smoker,heavy,OSCC,Lip & Oral Cavity,Buccal Mucosa,T3,N0,M0,III,SCC,,No,No,No,4.2,no,R- P-
+10000122,60.04,Female,ECOG 1,20,Current,non-drinker,OSCC,Lip & Oral Cavity,Floor of Mouth,T2,N0,M0,II,SCC,,No,No,Yes,2.1,no,R- P-
+10001002,64.9,Male,ECOG 1,50,Ex-smoker,ex-drinker,Lip & Oral Cavity,Lip & Oral Cavity,Tongue,T3,N2b,M0,IVA,SCC,,Yes,No,Yes,6.5,no,R+ P+
+10001007,71,Female,ECOG 0,0,Non-smoker,non-drinker,Lip & Oral Cavity,Lip & Oral Cavity,Upper Alveolus & Gingiva,T4a,N0,M0,IVA,SCC,,No,No,Yes,3.5,no,R- P-
+10001009,53.7,Male,ECOG 1,12,Current,Moderate,Lip & Oral Cavity,Lip & Oral Cavity,Buccal Mucosa,T3,N2b,M0,IVA,SCC,,Yes,No,No,4.7,no,R+ P+
+10001010,55.1,Male,ECOG 0,35,Current,non-drinker,Lip & Oral Cavity,Lip & Oral Cavity,Floor of Mouth,T4a,N0,M0,IVA,SCC,,No,No,No,3.5,no,R- P-
+10001011,72.1,Male,ECOG 1,10,Ex-smoker,Moderate,Lip & Oral Cavity,Lip & Oral Cavity,Retromolar Trigone,T4a,N1,M0,IVA,SCC,,Yes,No,No,1.7,yes,R+ P+
+10001015,76,Male,ECOG 0,0,Non-smoker,non-drinker,Lip & Oral Cavity,Lip & Oral Cavity,Buccal Mucosa,T3,N0,M0,III,SCC,,No,Yes,No,5.5,no,R- P-
+10001019,88.5,Female,ECOG 1,0,Non-smoker,non-drinker,Lip & Oral Cavity,Lip & Oral Cavity,Upper Alveolus & Gingiva,T4a,N3,M0,IVB,SCC,,Yes,No,Yes,3.2,no,R+ P+
+10001025,73,Male,ECOG 1,60,Ex-smoker,Moderate,Lip & Oral Cavity,Lip & Oral Cavity,Tongue,T3,N2c,M0,IVA,SCC,,Yes,No,Yes,6.6,no,R+ P+
+10001026,67.3,Female,ECOG 1,0,Non-smoker,non-drinker,Lip & Oral Cavity,Lip & Oral Cavity,Buccal Mucosa,T2,N2b,M0,IVA,SCC,,Yes,No,Yes,3,no,R+ P+
+10001029,71.1,Male,ECOG 0,10,Ex-smoker,light,Lip & Oral Cavity,Lip & Oral Cavity,Buccal Mucosa,T4a,N2b,M0,IVA,SCC,,Yes,No,No,6.5,no,R+ P+
+10001032,64.2,Male,ECOG 0,40,Current,heavy,Lip & Oral Cavity,Lip & Oral Cavity,Retromolar Trigone,T2,N2b,M0,IVA,SCC,,Yes,No,Yes,3.1,yes,R+ P+
+10001034,57.5,Male,ECOG 1,0,Non-smoker,non-drinker,Lip & Oral Cavity,Lip & Oral Cavity,Buccal Mucosa,T4a,N2b,M0,IVA,SCC,,Yes,Yes,Yes,5.3,no,R+ P+
+10001038,77.9,Female,ECOG 1,0,Non-smoker,non-drinker,Lip & Oral Cavity,Lip & Oral Cavity,Floor of Mouth,T4a,N0,M0,IVA,SCC,,No,No,No,3.3,no,R- P-
+10001045,68.6,Female,ECOG 0,30,Ex-smoker,light,Lip & Oral Cavity,Lip & Oral Cavity,Buccal Mucosa,T3,N1,M0,III,SCC,,Yes,No,Yes,4.1,no,R+ P+
+10001048,55.6,Female,ECOG 1,30,Ex-smoker,non-drinker,Lip & Oral Cavity,Lip & Oral Cavity,Floor of Mouth,T4a,N2b,M0,IVA,SCC,,Yes,No,Yes,8,no,R+ P+
+10001053,64.8,Male,ECOG 0,50,Current,heavy,Lip & Oral Cavity,Lip & Oral Cavity,Floor of Mouth,T4a,N1,M0,IVA,SCC,,Yes,No,No,3.4,yes,R+ P+
+10001055,53.1,Male,ECOG 0,0,Non-smoker,non-drinker,Lip & Oral Cavity,Lip & Oral Cavity,Buccal Mucosa,T2,N1,M0,III,SCC,,Yes,Yes,Yes,3.1,yes,R+ P+
+10001058,64.4,Male,ECOG 2,50,Current,ex-drinker,Lip & Oral Cavity,Lip & Oral Cavity,Floor of Mouth,T4a,N2c,M0,IVA,SCC,,Yes,Yes,Yes,4.2,yes,R+ P+
+10001064,49.2,Male,ECOG 1,15,Current,light,Lip & Oral Cavity,Lip & Oral Cavity,Floor of Mouth,T4a,N0,M0,IVA,SCC,,No,No,No,5,no,R- P-
+10001068,72.9,Male,ECOG 2,35,Ex-smoker,light,Lip & Oral Cavity,Lip & Oral Cavity,Retromolar Trigone,T3,N0,M0,III,SCC,,,,,NA,no,NA
+10001069,76.7,Male,ECOG 1,0,Non-smoker,light,Lip & Oral Cavity,Lip & Oral Cavity,Buccal Mucosa,T4b,N2b,M0,IVB,SCC,,,,,NA,no,NA
+10001077,44.6,Male,ECOG 0,25,Current,heavy,Lip & Oral Cavity,Lip & Oral Cavity,Lower Alveolus & Gingiva,T4a,N2b,M0,IVA,SCC,,Yes,No,Yes,4,yes,R+ P+
+10001078,64.8,Female,ECOG 1,35,Current,heavy,Lip & Oral Cavity,Lip & Oral Cavity,Floor of Mouth,T4a,N0,M0,IVA,SCC,,No,No,No,2.6,no,R- P-
+10001081,76.3,Female,ECOG 1,0,Non-smoker,light,Lip & Oral Cavity,Lip & Oral Cavity,Lower Alveolus & Gingiva,T2,N2b,M0,IVA,SCC,,Yes,No,No,2.1,yes,R+ P+
+10001085,67,Male,ECOG 0,40,Current,heavy,Lip & Oral Cavity,Lip & Oral Cavity,Floor of Mouth,T2,N2c,M0,IVA,SCC,,Yes,No,No,2.2,no,R+ P+
+10001088,53.5,Female,ECOG 0,0,Non-smoker,non-drinker,Lip & Oral Cavity,Lip & Oral Cavity,Floor of Mouth,T4a,N0,M0,IVA,SCC,NEG,No,No,No,2.7,no,R- P-
+10001093,52.3,Male,ECOG 1,15,Ex-smoker,non-drinker,Lip & Oral Cavity,Lip & Oral Cavity,Hard Palate,T4a,N0,M0,IVA,SCC,,No,No,No,5,no,R- P-
+10001095,88.5,Male,ECOG 1,20,Ex-smoker,light,Lip & Oral Cavity,Lip & Oral Cavity,Tongue,T2,N0,M0,II,SCC,NEG,,,,NA,no,NA
+10001098,64.1,Female,ECOG 0,43,Current,non-drinker,Lip & Oral Cavity,Lip & Oral Cavity,Buccal Mucosa,T2,N0,M0,II,SCC,,No,No,No,3.3,yes,R- P-
+10001102,62.9,Female,ECOG 1,50,Current,heavy,Lip & Oral Cavity,Lip & Oral Cavity,Floor of Mouth,T3,N2c,M0,IVA,SCC,,Yes,No,Yes,5.5,no,R+ P+
+10001103,68.5,Male,ECOG 0,0,Non-smoker,heavy,Lip & Oral Cavity,Lip & Oral Cavity,Lower Alveolus & Gingiva,T4a,N2b,M0,IVA,SCC,,Yes,No,Yes,3,no,R+ P+
+10001104,72.5,Female,ECOG 1,0,Non-smoker,non-drinker,Lip & Oral Cavity,Lip & Oral Cavity,Floor of Mouth,T3,N2c,M0,IVA,SCC,,Yes,No,Yes,4.1,no,R+ P+
+10001108,80.1,Male,ECOG 1,10,Ex-smoker,light,Lip & Oral Cavity,Lip & Oral Cavity,Lower Alveolus & Gingiva,T4a,N2b,M0,IVA,SCC,,Yes,No,Yes,2.5,yes,R+ P+
+10001112,46.7,Male,ECOG 0,30,Current,ex-drinker,Lip & Oral Cavity,Lip & Oral Cavity,Tongue,T4a,N2b,M0,IVA,SCC,NEG,Yes,No,Yes,8.6,no,R+ P+
+10001115,73.7,Female,ECOG 1,0,Non-smoker,non-drinker,Lip & Oral Cavity,Lip & Oral Cavity,Lower Alveolus & Gingiva,T4a,N2b,M0,IVA,SCC,,Yes,No,Yes,2.1,no,R+ P+
+10001120,54.5,Male,ECOG 0,15,Current,heavy,Lip & Oral Cavity,Lip & Oral Cavity,Floor of Mouth,T2,N2c,M0,IVA,SCC,,Yes,No,Yes,3.5,yes,R+ P+
+10001121,67.7,Female,ECOG 0,0,unknown,unknown,Lip & Oral Cavity,Lip & Oral Cavity,Upper Alveolus & Gingiva,T4a,N1,M0,IVA,SCC,,Yes,No,Yes,3.5,no,R+ P+
+10001124,84.5,Male,ECOG 0,0,Non-smoker,non-drinker,Lip & Oral Cavity,Lip & Oral Cavity,Lower Alveolus & Gingiva,T4a,N1,M0,IVA,SCC,,Yes,No,Yes,2,yes,R+ P+
+10001127,63.7,Female,ECOG 0,20,Ex-smoker,light,Lip & Oral Cavity,Lip & Oral Cavity,Tongue,T1,N2b,M0,IVA,SCC,,Yes,No,Yes,1.6,no,R+ P+
+10001129,78.9,Male,ECOG 1,50,Current,non-drinker,Lip & Oral Cavity,Lip & Oral Cavity,Lower Lip,T1,N2b,M0,IVA,SCC,,Yes,No,Yes,1,no,R+ P+
+10001130,61.6,Male,ECOG 1,40,Current,ex-drinker,Lip & Oral Cavity,Lip & Oral Cavity,Lower Alveolus & Gingiva,T4a,N2b,M0,IVA,SCC,,Yes,No,Yes,3.3,yes,R+ P+
+10001131,61.3,Female,ECOG 0,0,Non-smoker,non-drinker,Lip & Oral Cavity,Lip & Oral Cavity,Floor of Mouth,T2,N0,M0,II,SCC,,No,No,Yes,2.7,no,R- P-
+10001142,87.7,Male,ECOG 0,10,Ex-smoker,heavy,Lip & Oral Cavity,Lip & Oral Cavity,Upper Alveolus & Gingiva,T4a,N0,M0,IVA,SCC,,No,No,No,3.8,no,R- P-
+10001147,54,Male,Unknown,15,Ex-smoker,non-drinker,Lip & Oral Cavity,Lip & Oral Cavity,Tongue,T3,N2c,M0,IVA,SCC,,Yes,Yes,Yes,5,no,R+ P+
+10001150,65.2,Male,ECOG 0,75,Current,Moderate,OSCC,Lip & Oral Cavity,Floor of Mouth,T2,N0,M0,II,SCC,,,No,No,NA,no,NA
+10001151,48.2,Male,ECOG 0,10,Current,non-drinker,Lip & Oral Cavity,Lip & Oral Cavity,Floor of Mouth,T2,N2c,M0,IVA,SCC,,Yes,Yes,Yes,2.5,no,R+ P+
+10001152,87.4,Female,ECOG 0,0,Non-smoker,non-drinker,Lip & Oral Cavity,Lip & Oral Cavity,Tongue,T2,N2b,M0,IVA,SCC,,Yes,No,No,2.3,no,R+ P+
+10001157,63.2,Male,ECOG 0,45,Current,heavy,Lip & Oral Cavity,Lip & Oral Cavity,Lower Alveolus & Gingiva,T4a,N1,M0,IVA,SCC,,Yes,No,Yes,6,no,R+ P+
+10001159,64.3,Male,ECOG 0,30,Current,light,Lip & Oral Cavity,Lip & Oral Cavity,Tongue,T2,N2a,M0,IVA,SCC,,Yes,No,Yes,2.9,no,R+ P+
+10001161,43.6,Male,ECOG 0,20,Ex-smoker,light,Lip & Oral Cavity,Lip & Oral Cavity,Buccal Mucosa,T1,N1,M0,III,SCC,,Yes,No,Yes,1.9,no,R+ P+
+10001170,80.7,Male,ECOG 0,10,Ex-smoker,unknown,Lip & Oral Cavity,Lip & Oral Cavity,Buccal Mucosa,T2,N2c,M0,IVA,SCC,,Yes,No,Yes,2.1,no,R+ P+
+10001172,75,Female,ECOG 1,0,Non-smoker,unknown,Lip & Oral Cavity,Lip & Oral Cavity,Tongue,T1,N0,M0,I,SCC,NEG,,,,NA,no,NA
+10001173,57.9,Female,ECOG 0,0,Non-smoker,non-drinker,Lip & Oral Cavity,Lip & Oral Cavity,Tongue,T2,N2c,M0,IVA,SCC,,Yes,No,Yes,2.5,yes,R+ P+
+10001174,74,Female,ECOG 2,0,Non-smoker,non-drinker,OSCC,Lip & Oral Cavity,Tongue,T4b,N2c,M0,IVB,SCC,,,,,NA,no,NA
+10001178,60,Male,ECOG 1,20,Ex-smoker,non-drinker,Lip & Oral Cavity,Lip & Oral Cavity,Upper Alveolus & Gingiva,T4a,N0,M0,IVA,SCC,,No,No,No,2.2,no,R- P-
+10001182,51.5,Male,ECOG 0,10,Current,non-drinker,Lip & Oral Cavity,Lip & Oral Cavity,Lower Alveolus & Gingiva,T4a,N2b,M0,IVA,SCC,,Yes,No,Yes,4.7,no,R+ P+
+10001187,65.8,Male,ECOG 1,40,Current,heavy,Lip & Oral Cavity,Lip & Oral Cavity,Floor of Mouth,T4a,N1,M0,IVA,SCC,,,,,NA,no,NA
+10001190,60.3,Male,ECOG 0,46,Ex-smoker,heavy,OSCC,Lip & Oral Cavity,Tongue,T3,N2c,M0,IVA,SCC,,Yes,No,Yes,5.6,yes,R+ P+
+10001192,69,Male,ECOG 1,50,Current,Moderate,OSCC,Lip & Oral Cavity,Lower Alveolus & Gingiva,T4a,N2b,M0,IVA,SCC,,Yes,No,Yes,2.2,no,R+ P+
+10001193,74.9,Male,ECOG 1,50,Current,Moderate,Lip & Oral Cavity,Lip & Oral Cavity,Lower Alveolus & Gingiva,T4a,N2b,M0,IVA,SCC,,Yes,No,Yes,3,yes,R+ P+
+10001194,52.3,Female,ECOG 0,35,Current,non-drinker,OSCC,Lip & Oral Cavity,Tongue,T2,N0,M0,II,SCC,,No,No,Yes,2.6,yes,R- P-
+10001195,36.9,Male,ECOG 0,0,Non-smoker,non-drinker,OSCC,Lip & Oral Cavity,Upper Alveolus & Gingiva,T4a,N1,M0,IVA,SCC,,Yes,No,No,4.6,no,R+ P+
+10001197,72.5,Male,ECOG 0,50,Current,non-drinker,Lip & Oral Cavity,Lip & Oral Cavity,Lower Alveolus & Gingiva,T4a,N0,M0,IVA,SCC,,No,No,No,3.5,no,R- P-
+10001206,61.3,Male,ECOG 0,5,Current,non-drinker,OSCC,Lip & Oral Cavity,Buccal Mucosa,T4a,N1,M0,IVA,SCC,,Yes,No,No,3.9,no,R+ P+
+10001209,57,Male,ECOG 0,0,Non-smoker,light,Lip & Oral Cavity,Lip & Oral Cavity,Buccal Mucosa,T2,N2b,M0,IVA,SCC,,Yes,No,Yes,2.7,no,R+ P+
+10001213,56.2,Male,ECOG 0,0,Non-smoker,non-drinker,OSCC,Lip & Oral Cavity,Tongue,T2,N0,M0,II,SCC,,No,No,Yes,2.9,no,R- P-
+10001215,52.3,Male,ECOG 1,10,Current,light,OSCC,Lip & Oral Cavity,Tongue,T2,N1,M0,III,SCC,,Yes,No,No,3.6,no,R+ P+
+10001216,39.4,Male,ECOG 0,2,Current,non-drinker,Lip & Oral Cavity,Lip & Oral Cavity,Buccal Mucosa,T1,N2b,M0,IVA,SCC,,Yes,No,No,2,yes,R+ P+
+40000002,54.83,Male,ECOG 1,14,Current,light,OPC,Oropharynx,Tonsil,T3,N2c,M0,IVA,SCC,POS,Yes,,,NA,no,R+ P+
+40000003,58.95,Male,ECOG 0,20,Current,heavy,OPC,Oropharynx,Base of Tongue,T4a,N2c,M0,IVA,SCC,NEG,,,,NA,no,NA
+40000004,67.31,Male,ECOG 1,60,Current,heavy,OPC,Oropharynx,Soft Palate,T2,N0,M0,II,SCC,NEG,Yes,,,NA,no,R- P+
+40000005,65.97,Male,ECOG 0,35,Ex-smoker,light,OPC,Oropharynx,Base of Tongue,T4a,N2c,M1,IVC,SCC,POS,,,,NA,no,NA
+40000006,61.86,Male,ECOG 0,15,Ex-smoker,light,OPC,Oropharynx,Base of Tongue,T3,N2c,M0,IVA,SCC,POS,,,,NA,no,NA
+40000009,64.34,Male,ECOG 1,0,Non-smoker,light,OPC,Oropharynx,Tonsil,T4b,N2c,M0,IVB,SCC,POS,No,,,NA,no,R+ P-
+40000010,70.26,Male,ECOG 2,45,Current,non-drinker,OPC,Oropharynx,Base of Tongue,T4b,N2c,M0,IVB,SCC,POS,,,,NA,no,NA
+40000011,65,Female,ECOG 3,35,Current,light,OPC,Oropharynx,Base of Tongue,T4a,N2c,M0,IVA,SCC,NEG,,,,NA,no,NA
+40000012,81.73,Male,ECOG 2,50,Ex-smoker,Moderate,OPC,Oropharynx,post wall,T4b,N2b,M0,IVB,SCC,NEG,,,,NA,no,NA
+40000013,67.8,Male,ECOG 3,60,Current,non-drinker,OPC,Oropharynx,Tonsil,T4a,N2c,M0,IVA,SCC,POS,No,,,NA,no,R+ P-
+40000014,64.28,Male,ECOG 0,35,Current,Moderate,OPC,Oropharynx,Tonsil,T1,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40000015,64.83,Male,ECOG 0,0,Non-smoker,heavy,OPC,Oropharynx,Tonsil,T2,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40000016,47.22,Male,ECOG 0,0,Non-smoker,non-drinker,OPC,Oropharynx,Base of Tongue,T2,N2c,M0,IVA,SCC,POS,,,,NA,no,NA
+40000017,81.93,Male,ECOG 0,0,Non-smoker,non-drinker,OPC,Oropharynx,Tonsil,T4b,N2c,M0,IVB,SCC,POS,,,,NA,no,NA
+40000018,81.49,Female,ECOG 1,0,Non-smoker,non-drinker,OPC,Oropharynx,Base of Tongue,T2,N2b,M0,IVA,SCC,NEG,,,,NA,no,NA
+40000019,67.77,Male,ECOG 1,0,Non-smoker,non-drinker,OPC,Oropharynx,Tonsil,T4a,N2c,M0,IVA,SCC,POS,No,,,NA,no,R+ P-
+40000020,47.09,Male,ECOG 0,0,Non-smoker,non-drinker,OPC,Oropharynx,Tonsil,T4b,N2c,M0,IVB,SCC,POS,,,,NA,no,NA
+40000021,52.25,Male,ECOG 0,38,Current,heavy,OPC,Oropharynx,Base of Tongue,T2,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40000022,64.83,Male,ECOG 3,18,Ex-smoker,heavy,OPC,Oropharynx,post wall,T3,N2c,M0,IVA,SCC,POS,,,,NA,no,NA
+40000023,57.05,Male,ECOG 0,40,Ex-smoker,heavy,OPC,Oropharynx,Tonsil,T4b,N2c,M0,IVB,SCC,POS,,,,NA,no,NA
+40000025,62.69,Male,ECOG 1,0,Non-smoker,Moderate,OPC,Oropharynx,Tonsillar Fossa,T3,N3,M0,IVB,SCC,POS,Yes,,,NA,no,R+ P+
+40000026,83.61,Male,ECOG 0,30,Ex-smoker,Moderate,OPC,Oropharynx,Tonsillar Fossa,T2,N2a,M0,IVA,SCC,NEG,,,,NA,no,NA
+40000027,59.14,Male,ECOG 0,0,Non-smoker,non-drinker,OPC,Oropharynx,Base of Tongue,T4a,N2b,M0,IVA,SCC,POS,No,No,No,1.2,no,R+ P-
+40000028,70.52,Female,ECOG 1,52,Current,heavy,OPC,Oropharynx,Lat wall,T3,N0,M0,III,SCC,NEG,,,,NA,no,NA
+40000029,45.56,Female,ECOG 2,0,Non-smoker,non-drinker,OPC,Oropharynx,Tonsil,T3,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40000030,39.21,Male,ECOG 1,1,Ex-smoker,unknown,OPC,Oropharynx,Tonsillar Fossa,T4a,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40000031,74.39,Male,ECOG 0,0,Non-smoker,non-drinker,OPC,Oropharynx,Base of Tongue,T4a,N2c,M0,IVA,SCC,POS,,,,NA,no,NA
+40000032,47.87,Male,ECOG 0,20,Current,ex-drinker,OPC,Oropharynx,Tonsillar Fossa,T3,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40000033,47.25,Female,ECOG 0,0,Non-smoker,non-drinker,OPC,Oropharynx,Tonsillar Fossa,T3,N2c,M0,IVA,SCC,POS,,,,NA,no,NA
+40000034,69.58,Male,ECOG 2,42,Ex-smoker,non-drinker,OPC,Oropharynx,Tonsil,T2,N2a,M0,IVA,SCC,NEG,,,,NA,no,NA
+40000035,58.22,Male,Unknown,80,Current,heavy,OPC,Oropharynx,Soft Palate,T2,N1,M0,III,SCC,POS,,,,NA,no,NA
+40000036,64.96,Female,ECOG 0,0,Non-smoker,non-drinker,OPC,Oropharynx,Tonsil Pillar,T2,N1,M0,III,SCC,NEG,,,,NA,no,NA
+40000037,52.36,Female,ECOG 1,28,Current,heavy,OPC,Oropharynx,Tonsillar Fossa,T4a,N2c,M0,IVA,SCC,POS,,,,NA,no,NA
+40000039,56.1,Male,ECOG 0,0,Non-smoker,light,OPC,Oropharynx,Base of Tongue,T3,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40000040,66.48,Male,ECOG 0,0,Non-smoker,Moderate,OPC,Oropharynx,Tonsillar Fossa,T2,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40000041,60.8,Male,ECOG 1,5,Ex-smoker,Moderate,OPC,Oropharynx,Tonsillar Fossa,T4a,N2c,M0,IVA,SCC,POS,,,,NA,no,NA
+40000042,43.1,Male,ECOG 1,30,Current,light,OPC,Oropharynx,Tonsil,T2,N2c,M0,IVA,SCC,POS,,,,NA,no,NA
+40000043,80.54,Male,ECOG 0,0,Non-smoker,non-drinker,OPC,Oropharynx,Tonsillar Fossa,T2,N2b,M0,IVA,SCC,NEG,,,,NA,no,NA
+40000044,50.13,Male,ECOG 1,0,Non-smoker,non-drinker,OPC,Oropharynx,Tonsillar Fossa,T2,N1,M0,III,SCC,POS,,,,NA,no,NA
+40000046,72.95,Male,ECOG 0,8,Current,light,OPC,Oropharynx,Tonsillar Fossa,T3,N0,M0,III,SCC,POS,,,,NA,no,NA
+40000047,60.47,Male,ECOG 0,40,Current,non-drinker,OPC,Oropharynx,Tonsil,T4a,N2c,M0,IVA,SCC,POS,,,,NA,no,NA
+40000048,48.07,Male,ECOG 0,0,Non-smoker,non-drinker,OPC,Oropharynx,Base of Tongue,T2,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40000049,60.18,Male,ECOG 1,45,Current,heavy,OPC,Oropharynx,Tonsil,T3,N2b,M0,IVA,SCC,NEG,,,,NA,no,NA
+40000050,61.21,Male,ECOG 0,0,Non-smoker,non-drinker,OPC,Oropharynx,Base of Tongue,T4a,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40000051,64.05,Male,ECOG 0,0,Non-smoker,non-drinker,OPC,Oropharynx,Tonsil,T2,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40000052,69.03,Male,ECOG 0,0,Non-smoker,non-drinker,OPC,Oropharynx,Base of Tongue,T2,N1,M0,III,SCC,POS,,,,NA,no,NA
+40000053,50.72,Male,ECOG 1,0,Non-smoker,non-drinker,OPC,Oropharynx,Tonsillar Fossa,T4b,N2c,M0,IVB,SCC,POS,,,,NA,no,NA
+40000054,51.32,Male,ECOG 0,17,Ex-smoker,Moderate,OPC,Oropharynx,Tonsillar Fossa,T2,N2c,M0,IVA,SCC,POS,,,,NA,no,NA
+40000056,47.84,Male,ECOG 0,50,Ex-smoker,heavy,OPC,Oropharynx,Soft Palate,T3,N2b,M0,IVA,SCC,NEG,,,,NA,no,NA
+40000057,56.65,Female,ECOG 1,5,Ex-smoker,non-drinker,OPC,Oropharynx,Tonsillar Fossa,T2,N0,M0,II,SCC,POS,,,,NA,no,NA
+40000059,55.15,Male,ECOG 0,5,Ex-smoker,light,OPC,Oropharynx,Base of Tongue,T2,N2c,M0,IVA,SCC,POS,,,,NA,no,NA
+40000060,84.03,Male,ECOG 0,0,Non-smoker,non-drinker,OPC,Oropharynx,Tonsillar Fossa,T4b,N0,M0,IVB,SCC,POS,,,,NA,no,NA
+40000061,43.78,Male,ECOG 2,0,Non-smoker,non-drinker,OPC,Oropharynx,Base of Tongue,T3,N0,M0,III,SCC,POS,,,,NA,no,NA
+40000062,76.98,Female,ECOG 0,0,Non-smoker,Moderate,OPC,Oropharynx,Tonsillar Fossa,T2,N1,M0,III,SCC,POS,,,,NA,no,NA
+40000063,69.75,Male,ECOG 0,20,Ex-smoker,Moderate,OPC,Oropharynx,Tonsillar Fossa,T3,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40000065,52.26,Male,ECOG 0,15,Ex-smoker,non-drinker,OPC,Oropharynx,Tonsil,T3,N2c,M0,IVA,SCC,POS,,,,NA,no,NA
+40000066,55.52,Male,ECOG 1,80,Current,ex-drinker,OPC,Oropharynx,Soft Palate,T4a,N2c,M0,IVA,SCC,NEG,,,,NA,no,NA
+40000067,60.07,Female,ECOG 0,20,Current,light,OPC,Oropharynx,Soft Palate,T3,N2c,M0,IVA,SCC,NEG,,,,NA,no,NA
+40000069,54.17,Male,ECOG 0,20,Ex-smoker,light,OPC,Oropharynx,Tonsil,T2,N2a,M0,IVA,SCC,POS,,,,NA,no,NA
+40000070,54.25,Male,ECOG 1,40,Ex-smoker,heavy,OPC,Oropharynx,Tonsillar Fossa,T2,N2c,M0,IVA,SCC,NEG,,,,NA,no,NA
+40000071,73.84,Female,ECOG 0,0,Non-smoker,light,OPC,Oropharynx,Tonsillar Fossa,T4b,N2b,M0,IVB,SCC,NEG,,,,NA,no,NA
+40000073,68.16,Male,ECOG 1,0,Non-smoker,non-drinker,OPC,Oropharynx,Tonsil,T2,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40000074,63.7,Male,ECOG 1,45,Ex-smoker,heavy,OPC,Oropharynx,Base of Tongue,T2,N2b,M0,IVA,SCC,NEG,,,,NA,no,NA
+40000075,49.57,Male,ECOG 0,31,Current,Moderate,OPC,Oropharynx,Tonsil,T1,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40000077,49.53,Male,ECOG 0,6,Ex-smoker,light,OPC,Oropharynx,Base of Tongue,T2,N2c,M0,IVA,SCC,POS,,,,NA,no,NA
+40000078,58.11,Male,ECOG 1,15,Ex-smoker,Moderate,OPC,Oropharynx,Base of Tongue,T2,N1,M0,III,SCC,POS,,,,NA,no,NA
+40000079,45.94,Male,ECOG 0,20,Ex-smoker,non-drinker,OPC,Oropharynx,Vallecula,T2,N2c,M0,IVA,SCC,POS,,,,NA,no,NA
+40000080,56.49,Male,ECOG 1,40,Current,light,OPC,Oropharynx,Tonsil,T3,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40000081,67.9,Male,ECOG 1,50,Current,heavy,OPC,Oropharynx,Tonsil,T3,N3,M0,IVB,SCC,NEG,,,,NA,no,NA
+40000082,54.33,Male,ECOG 0,11,Current,light,OPC,Oropharynx,Tonsil,T3,N2b,M0,IVA,SCC,POS,No,,,NA,no,R+ P-
+40000083,50.28,Male,ECOG 1,30,Current,heavy,OPC,Oropharynx,Vallecula,T2,N0,M0,II,SCC,NEG,,,,NA,no,NA
+40000084,57.93,Female,ECOG 0,0,Non-smoker,non-drinker,OPC,Oropharynx,Soft Palate,T1,N2c,M0,IVA,SCC,POS,,,,NA,no,NA
+40000085,54.19,Male,ECOG 1,0,Non-smoker,Moderate,OPC,Oropharynx,Tonsil,T3,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40000086,48.02,Male,ECOG 0,0,Non-smoker,non-drinker,OPC,Oropharynx,Base of Tongue,T2,N2c,M0,IVA,SCC,POS,,,,NA,no,NA
+40000087,50.31,Male,ECOG 1,20,Current,non-drinker,OPC,Oropharynx,Tonsil,T3,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40000088,40,Male,ECOG 1,20,Current,Moderate,OPC,Oropharynx,Soft Palate,T4b,N2c,M0,IVB,SCC,NEG,,,,NA,no,NA
+40000089,62.28,Male,ECOG 0,21,Ex-smoker,Moderate,OPC,Oropharynx,Tonsil,T4a,N2c,M0,IVA,SCC,POS,,,,NA,no,NA
+40000091,50.9,Female,ECOG 0,0,Non-smoker,non-drinker,OPC,Oropharynx,Tonsil,T1,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40000092,57.37,Male,ECOG 0,18,Current,ex-drinker,OPC,Oropharynx,Tonsil,T2,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40000093,61.99,Male,ECOG 0,0,Non-smoker,non-drinker,OPC,Oropharynx,Tonsil,T2,N2b,M0,IVA,SCC,POS,Yes,No,No,2.8,no,R+ P+
+40000094,49.58,Male,ECOG 0,0,Non-smoker,non-drinker,OPC,Oropharynx,Tonsil,T3,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40000095,35.45,Female,ECOG 0,15,Current,non-drinker,OPC,Oropharynx,Tonsil,T3,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40000096,70.36,Male,ECOG 0,0,Non-smoker,non-drinker,OPC,Oropharynx,Tonsillar Fossa,T2,N1,M0,III,SCC,POS,,,,NA,no,NA
+40000097,54.94,Male,ECOG 0,20,Ex-smoker,non-drinker,OPC,Oropharynx,Base of Tongue,T2,N2c,M0,IVA,SCC,POS,,,,NA,no,NA
+40000098,68.54,Female,ECOG 1,25,Ex-smoker,Moderate,OPC,Oropharynx,Base of Tongue,T2,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40000099,52.73,Male,ECOG 0,1,Current,non-drinker,OPC,Oropharynx,Tonsil,T2,N0,M0,II,SCC,POS,,,,NA,no,NA
+40000100,59.79,Female,ECOG 0,0,Non-smoker,non-drinker,OPC,Oropharynx,Tonsillar Fossa,T2,N2b,M0,IVA,SCC,NEG,,,,NA,no,NA
+40000101,53.95,Male,ECOG 0,0,Non-smoker,non-drinker,OPC,Oropharynx,Base of Tongue,T1,N2c,M0,IVA,SCC,POS,,,,NA,no,NA
+40000102,58.85,Male,ECOG 0,40,Current,light,OPC,Oropharynx,Lat wall,T4a,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40000103,80.21,Male,ECOG 1,50,Ex-smoker,ex-drinker,OPC,Oropharynx,Base of Tongue,T4a,N2b,M0,IVA,SCC,NEG,,,,NA,no,NA
+40000104,59.47,Male,ECOG 2,18,Current,non-drinker,OPC,Oropharynx,Base of Tongue,T4a,N1,M0,IVA,SCC,POS,,,,NA,no,NA
+40000105,49.15,Female,ECOG 2,10,Current,ex-drinker,OPC,Oropharynx,Base of Tongue,T2,N2c,M0,IVA,SCC,NEG,,,,NA,no,NA
+40000107,62.66,Female,ECOG 2,75,Current,light,OPC,Oropharynx,Base of Tongue,T4a,N2c,M0,IVA,SCC,NEG,,,,NA,no,NA
+40000108,52.8,Male,ECOG 2,40,Current,heavy,OPC,Oropharynx,Tonsil,T4b,N2b,M0,IVB,SCC,POS,,,,NA,no,NA
+40000109,79.53,Male,ECOG 2,50,Current,non-drinker,OPC,Oropharynx,Tonsil,T4a,N2c,M0,IVA,SCC,POS,,,,NA,no,NA
+40000110,55.34,Female,ECOG 1,80,Current,light,OPC,Oropharynx,Base of Tongue,T4a,N2b,M0,IVA,SCC,NEG,,,,NA,no,NA
+40000111,61.89,Male,ECOG 1,0,Non-smoker,ex-drinker,OPC,Oropharynx,Base of Tongue,T3,N2b,M0,IVA,SCC,POS,No,,,NA,no,R+ P-
+40000112,67.69,Male,ECOG 0,14,Ex-smoker,heavy,OPC,Oropharynx,Tonsil,T3,N2b,M0,IVA,SCC,POS,Yes,,,NA,no,R+ P+
+40000113,71.63,Male,ECOG 2,30,Ex-smoker,light,OPC,Oropharynx,Base of Tongue,T3,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40000114,78.48,Male,ECOG 1,0,Non-smoker,light,OPC,Oropharynx,Base of Tongue,T3,N2c,M0,IVA,SCC,POS,,,,NA,no,NA
+40000115,58.96,Male,ECOG 0,60,Current,heavy,OPC,Oropharynx,Tonsil,T3,N2c,M0,IVA,SCC,POS,No,,,NA,no,R+ P-
+40001003,61.1,Male,ECOG 0,20,Ex-smoker,heavy,Oropharynx,Oropharynx,Tonsil,T2,N3,M0,IVB,SCC,POS,,,,NA,yes,NA
+40001021,77.9,Female,ECOG 2,15,Ex-smoker,unknown,Oropharynx,Oropharynx,Base of Tongue,T3,N0,M0,III,SCC,POS,,,,NA,no,NA
+40001032,80.8,Female,ECOG 1,60,Ex-smoker,Moderate,Oropharynx,Oropharynx,Base of Tongue,T4a,N1,M0,IVA,SCC,NEG,,,,NA,no,NA
+40001042,70,Male,ECOG 1,50,Ex-smoker,ex-drinker,Oropharynx,Oropharynx,Base of Tongue,T3,N2c,M0,IVA,SCC,NEG,,,,NA,no,NA
+40001053,44.9,Female,ECOG 0,4,Current,heavy,Oropharynx,Oropharynx,Base of Tongue,T3,N2b,M0,IVA,SCC,NEG,,,,NA,no,NA
+40001054,60,Female,ECOG 1,46,Current,light,Oropharynx,Oropharynx,Base of Tongue,T4a,N1,M0,IVA,SCC,NEG,,,,NA,no,NA
+40001065,59.5,Male,ECOG 0,40,Ex-smoker,heavy,Oropharynx,Oropharynx,Base of Tongue,T2,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40001068,64.4,Male,ECOG 0,35,Ex-smoker,heavy,Oropharynx,Oropharynx,Tonsillar Fossa,T3,N2c,M0,IVA,SCC,POS,,,,NA,no,NA
+40001069,53.3,Male,ECOG 0,70,Current,heavy,Oropharynx,Oropharynx,Tonsil,T3,N3,M0,IVB,SCC,NEG,,,,NA,no,NA
+40001070,47.1,Male,ECOG 1,30,Current,non-drinker,Oropharynx,Oropharynx,Tonsil Pillar,T3,N1,M0,III,SCC,POS,,,,NA,no,NA
+40001076,57.3,Female,ECOG 0,0,Non-smoker,non-drinker,Oropharynx,Oropharynx,Tonsillar Fossa,T2,N0,M0,II,SCC,POS,,,,NA,no,NA
+40001088,68.5,Male,ECOG 1,60,Current,heavy,Oropharynx,Oropharynx,Tonsil,T3,N2c,M0,IVA,SCC,NEG,,,,NA,no,NA
+40001095,56.2,Male,ECOG 0,40,Ex-smoker,light,Oropharynx,Oropharynx,Tonsillar Fossa,T2,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40001098,50,Female,ECOG 0,35,Current,heavy,Oropharynx,Oropharynx,Base of Tongue,T4a,N0,M0,IVA,SCC,POS,,,,NA,no,NA
+40001101,53.6,Male,ECOG 0,15,Ex-smoker,light,Oropharynx,Oropharynx,Soft Palate,T2,N0,M0,II,SCC,,,No,No,0.5,no,NA
+40001102,64.4,Male,ECOG 0,2,Current,light,Oropharynx,Oropharynx,Tonsil,T3,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40001109,44.8,Male,ECOG 0,7,Ex-smoker,light,Oropharynx,Oropharynx,Tonsil,T2,N2a,M0,IVA,SCC,POS,,,,NA,no,NA
+40001122,59.4,Male,ECOG 0,20,Ex-smoker,light,Oropharynx,Oropharynx,Base of Tongue,T2,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40001126,68.6,Male,ECOG 1,45,Current,light,Oropharynx,Oropharynx,Tonsillar Fossa,T4a,N2b,M0,IVA,SCC,NEG,,,,NA,no,NA
+40001128,87,Female,ECOG 0,30,Current,Moderate,Oropharynx,Oropharynx,Tonsil Pillar,T3,N0,M0,III,SCC,NEG,,,,NA,no,NA
+40001131,67.2,Male,ECOG 1,30,Current,non-drinker,Oropharynx,Oropharynx,Tonsil,T3,N2b,M0,IVA,SCC,NEG,,,,NA,no,NA
+40001134,56.3,Female,ECOG 0,35,Current,light,Oropharynx,Oropharynx,Vallecula,T3,N2c,M0,IVA,SCC,POS,,,,NA,no,NA
+40001146,44.5,Male,ECOG 0,0,Non-smoker,unknown,Oropharynx,Oropharynx,Tonsil,T4a,N3,M0,IVB,SCC,POS,,,,NA,no,NA
+40001148,69,Male,ECOG 0,0,Non-smoker,non-drinker,Oropharynx,Oropharynx,Tonsil Pillar,T2,N1,M0,III,SCC,POS,,,,NA,yes,NA
+40001149,84.6,Male,ECOG 0,25,Ex-smoker,light,Oropharynx,Oropharynx,Base of Tongue,T1,N2c,M0,IVA,SCC,NEG,,,,NA,no,NA
+40001150,67.9,Male,ECOG 1,50,Current,light,Oropharynx,Oropharynx,Uvula,T3,N2b,M0,IVA,SCC,NEG,,,,NA,no,NA
+40001157,66.6,Female,ECOG 0,50,Current,light,Oropharynx,Oropharynx,Tonsil,T4a,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40001162,49.9,Male,ECOG 1,15,Ex-smoker,light,Oropharynx,Oropharynx,Tonsil,T3,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40001164,57.5,Male,ECOG 0,40,Current,heavy,Oropharynx,Oropharynx,Tonsillar Fossa,T3,N2c,M0,IVA,SCC,POS,,,,NA,no,NA
+40001177,65.2,Male,ECOG 0,10,Ex-smoker,light,Oropharynx,Oropharynx,Base of Tongue,T1,N2b,M0,IVA,SCC,POS,,,,NA,yes,NA
+40001179,71.3,Male,ECOG 1,55,Current,heavy,Oropharynx,Oropharynx,Tonsillar Fossa,T3,N0,M0,III,SCC,NEG,,,,NA,no,NA
+40001183,73.5,Female,ECOG 1,5,Ex-smoker,Moderate,Oropharynx,Oropharynx,Base of Tongue,T2,N2b,M0,IVA,SCC,POS,Yes,,,NA,no,R+ P+
+40001184,85.6,Male,ECOG 1,36,Ex-smoker,light,Oropharynx,Oropharynx,Base of Tongue,T1,N2b,M0,IVA,SCC,NEG,,,,NA,no,NA
+40001185,75.4,Male,ECOG 1,12,Ex-smoker,light,Oropharynx,Oropharynx,Base of Tongue,T2,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40001190,69.3,Male,ECOG 1,10,Ex-smoker,non-drinker,Oropharynx,Oropharynx,Base of Tongue,T3,N2b,M0,IVA,SCC,,,,,NA,no,NA
+40001192,74.9,Male,ECOG 1,50,Current,light,Oropharynx,Oropharynx,Base of Tongue,T1,N0,M0,I,SCC,NEG,No,No,Yes,1.5,no,R- P-
+40001209,52.6,Male,ECOG 0,1,Ex-smoker,light,Oropharynx,Oropharynx,Base of Tongue,T1,N2b,M0,IVA,SCC,POS,,,,NA,yes,NA
+40001220,62.7,Male,ECOG 1,18,Ex-smoker,light,Oropharynx,Oropharynx,Tonsil,T3,N2c,M0,IVA,SCC,POS,,,,NA,no,NA
+40001230,78.6,Female,ECOG 1,50,Current,light,Oropharynx,Oropharynx,Tonsil,T3,N2b,M0,IVA,SCC,NEG,,,,NA,no,NA
+40001236,81.7,Male,ECOG 1,45,Current,ex-drinker,Oropharynx,Oropharynx,Soft Palate,T3,N2c,M0,IVA,SCC,NEG,,,,NA,yes,NA
+40001238,57.7,Male,ECOG 0,15,Ex-smoker,non-drinker,Oropharynx,Oropharynx,Tonsillar Fossa,T4a,N2c,M0,IVA,SCC,POS,,,,NA,no,NA
+40001260,61.4,Male,ECOG 2,20,Ex-smoker,light,Oropharynx,Oropharynx,Tonsillar Fossa,T3,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40001262,73.7,Male,ECOG 1,2,Current,Moderate,Oropharynx,Oropharynx,Tonsillar Fossa,T4a,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40001263,56.8,Female,ECOG 0,20,Current,light,Oropharynx,Oropharynx,Tonsil Pillar,T2,N0,M0,II,SCC,NEG,No,No,Yes,2.2,no,R- P-
+40001268,54.3,Male,ECOG 1,30,Current,light,Oropharynx,Oropharynx,Tonsillar Fossa,T1,N2c,M0,IVA,SCC,POS,,,,NA,no,NA
+40001277,60.5,Female,ECOG 1,80,Current,heavy,Oropharynx,Oropharynx,Tonsillar Fossa,T3,N0,M0,III,SCC,NEG,,,,NA,yes,NA
+40001278,61.1,Male,ECOG 1,50,Current,heavy,Oropharynx,Oropharynx,Base of Tongue,T3,N2b,M0,IVA,SCC,NEG,,,,NA,no,NA
+40001279,45,Male,ECOG 1,25,Current,heavy,Oropharynx,Oropharynx,Soft Palate,T3,N2b,M0,IVA,SCC,NEG,,,,NA,no,NA
+40001281,64.2,Male,ECOG 0,40,Current,light,Oropharynx,Oropharynx,Tonsil Pillar,T4a,N2b,M0,IVA,SCC,NEG,,,,NA,no,NA
+40001286,61.3,Male,ECOG 1,25,Current,heavy,Oropharynx,Oropharynx,Tonsillar Fossa,T4a,N2c,M0,IVA,SCC,NEG,,,,NA,no,NA
+40001287,62.9,Male,ECOG 0,50,Current,light,Oropharynx,Oropharynx,Tonsillar Fossa,T4a,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40001289,75.4,Male,ECOG 0,5,Ex-smoker,light,Oropharynx,Oropharynx,Base of Tongue,T2,N2c,M0,IVA,SCC,POS,,,,NA,no,NA
+40001292,67.7,Male,ECOG 2,75,Current,heavy,Oropharynx,Oropharynx,Uvula,T2,N0,M0,II,SCC,NEG,,,,NA,no,NA
+40001294,45.3,Male,ECOG 1,5,Current,heavy,Oropharynx,Oropharynx,Base of Tongue,T3,N3,M0,IVB,SCC,NEG,,,,NA,no,NA
+40001297,83,Male,ECOG 1,5,Ex-smoker,non-drinker,Oropharynx,Oropharynx,Vallecula,T3,N2c,M0,IVA,SCC,NEG,,,,NA,no,NA
+40001298,70.8,Female,ECOG 0,60,Current,non-drinker,Oropharynx,Oropharynx,Soft Palate,T1,N0,M0,I,SCC,NEG,,,,NA,no,NA
+40001306,64.1,Male,ECOG 0,50,Current,heavy,Oropharynx,Oropharynx,Tonsil Pillar,T3,N2b,M0,IVA,SCC,NEG,,,,NA,no,NA
+40001310,53.4,Male,ECOG 0,6,Ex-smoker,non-drinker,Oropharynx,Oropharynx,Base of Tongue,T4a,N2c,M0,IVA,SCC,POS,,,,NA,no,NA
+40001313,66.9,Male,ECOG 0,35,Ex-smoker,Moderate,Oropharynx,Oropharynx,Tonsillar Fossa,T3,N1,M0,III,SCC,POS,,,,NA,no,NA
+40001320,69.5,Male,ECOG 0,50,Current,heavy,Oropharynx,Oropharynx,Soft Palate,T3,N2a,M0,IVA,SCC,NEG,,,,NA,no,NA
+40001323,72.6,Female,ECOG 0,0,Non-smoker,non-drinker,Oropharynx,Oropharynx,Soft Palate,T1,N0,M0,I,SCC,NEG,,,,NA,no,NA
+40001331,33.2,Female,ECOG 0,0,Non-smoker,non-drinker,Oropharynx,Oropharynx,Base of Tongue,T2,N0,M0,II,SCC,POS,,,,NA,no,NA
+40001334,55.2,Male,ECOG 0,0,Ex-smoker,non-drinker,Oropharynx,Oropharynx,Base of Tongue,T3,N2c,M0,IVA,SCC,POS,,,,NA,no,NA
+40001335,85.3,Male,ECOG 0,2,Ex-smoker,light,Oropharynx,Oropharynx,Base of Tongue,T3,N2b,M0,IVA,SCC,,,,,NA,no,NA
+40001340,50.3,Male,ECOG 0,0,Non-smoker,light,Oropharynx,Oropharynx,Base of Tongue,T1,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40001351,62.9,Male,ECOG 0,1,Ex-smoker,light,Oropharynx,Oropharynx,Tonsillar Fossa,T3,N2c,M0,IVA,SCC,POS,,,,NA,no,NA
+40001356,64.6,Male,ECOG 0,0,Non-smoker,non-drinker,Oropharynx,Oropharynx,Tonsillar Fossa,T2,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40001357,68.2,Male,ECOG 1,50,Current,heavy,Oropharynx,Oropharynx,Soft Palate,T3,N2c,M0,IVA,SCC,NEG,,,,NA,no,NA
+40001358,62.2,Male,ECOG 1,120,Current,heavy,Oropharynx,Oropharynx,Tonsillar Fossa,T2,N3,M0,IVB,SCC,NEG,,,,NA,no,NA
+40001369,51.7,Male,ECOG 0,0,Non-smoker,non-drinker,Oropharynx,Oropharynx,Lat wall,T3,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40001374,47.4,Male,ECOG 1,0,Non-smoker,non-drinker,Oropharynx,Oropharynx,Base of Tongue,T2,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40001394,63,Male,ECOG 0,20,Ex-smoker,unknown,Oropharynx,Oropharynx,Base of Tongue,T4a,N2c,M0,IVA,SCC,NEG,,,,NA,no,NA
+40001396,51.9,Male,ECOG 0,30,Current,heavy,Oropharynx,Oropharynx,Base of Tongue,T3,N2b,M0,IVA,SCC,NEG,,,,NA,no,NA
+40001403,64.5,Male,ECOG 0,0,Non-smoker,non-drinker,Oropharynx,Oropharynx,Tonsillar Fossa,T2,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40001406,70.8,Male,ECOG 0,75,Ex-smoker,non-drinker,Oropharynx,Oropharynx,Tonsil,T4a,N0,M0,IVA,SCC,NEG,,,,NA,no,NA
+40001414,62.7,Male,ECOG 1,40,Ex-smoker,non-drinker,Oropharynx,Oropharynx,Base of Tongue,T2,N0,M0,II,SCC,POS,,,,NA,no,NA
+40001419,52,Male,ECOG 0,3,Ex-smoker,non-drinker,Oropharynx,Oropharynx,Tonsil,T3,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40001425,65,Male,ECOG 1,54,Current,non-drinker,Oropharynx,Oropharynx,Tonsil,T3,N0,M0,III,SCC,POS,,,,NA,yes,NA
+40001428,69.2,Male,ECOG 0,10,Ex-smoker,light,Oropharynx,Oropharynx,Base of Tongue,T3,N1,M0,III,SCC,POS,,,,NA,no,NA
+40001429,71.7,Male,ECOG 1,50,Current,ex-drinker,Oropharynx,Oropharynx,Base of Tongue,T4b,N2c,M0,IVB,SCC,POS,,,,NA,no,NA
+40001431,72.2,Male,ECOG 0,0,Non-smoker,Moderate,Oropharynx,Oropharynx,Base of Tongue,T4a,N2c,M0,IVA,SCC,POS,,,,NA,no,NA
+40001434,62.7,Male,ECOG 1,20,Current,light,Oropharynx,Oropharynx,Tonsillar Fossa,T4a,N2c,M0,IVA,SCC,POS,,,,NA,no,NA
+40001447,63.9,Male,ECOG 0,0,Non-smoker,light,Oropharynx,Oropharynx,Tonsillar Fossa,T2,N2a,M0,IVA,SCC,POS,No,No,No,2.4,no,R+ P-
+40001452,70.3,Male,ECOG 0,25,Ex-smoker,Moderate,Oropharynx,Oropharynx,Post wall,T4a,N2c,M0,IVA,SCC,NEG,,,,NA,no,NA
+40001453,68.9,Male,ECOG 0,10,Ex-smoker,Moderate,Oropharynx,Oropharynx,Post wall,T2,N1,M0,III,SCC,POS,,,,NA,no,NA
+40001458,63,Male,ECOG 0,0,Non-smoker,light,Oropharynx,Oropharynx,Base of Tongue,T2,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40001470,46.3,Female,ECOG 0,6,Ex-smoker,light,Oropharynx,Oropharynx,Tonsillar Fossa,T2,N2b,M0,IVA,SCC,POS,Yes,No,Yes,3,no,R+ P+
+40001471,57.9,Male,ECOG 1,42,Current,heavy,Oropharynx,Oropharynx,Base of Tongue,T2,N2c,M0,IVA,SCC,POS,,,,NA,no,NA
+40001478,51.5,Male,ECOG 0,45,Current,heavy,Oropharynx,Oropharynx,Tonsil Pillar,T2,N0,M0,II,SCC,NEG,,,,NA,no,NA
+40001484,64.8,Female,ECOG 0,0,Non-smoker,non-drinker,Oropharynx,Oropharynx,Tonsillar Fossa,T2,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40001497,61.5,Male,ECOG 1,50,Current,light,Oropharynx,Oropharynx,Tonsillar Fossa,T3,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40001498,54.3,Male,ECOG 0,0,Non-smoker,Moderate,Oropharynx,Oropharynx,Base of Tongue,T3,N3,M0,IVB,SCC,POS,,,,NA,no,NA
+40001503,51.6,Male,ECOG 0,0,Non-smoker,light,Oropharynx,Oropharynx,Tonsil,T2,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40001504,45.3,Female,ECOG 0,28,Current,light,Oropharynx,Oropharynx,Soft Palate,T4a,N2c,M0,IVA,SCC,NEG,,,,NA,no,NA
+40001512,39.2,Male,ECOG 1,1,Ex-smoker,unknown,Oropharynx,Oropharynx,Tonsillar Fossa,T4a,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
+40001517,52.4,Male,ECOG 0,4,Ex-smoker,light,Oropharynx,Oropharynx,Base of Tongue,T2,N2a,M0,IVA,SCC,POS,,,,NA,no,NA
+40001520,81,Female,ECOG 0,0,Non-smoker,non-drinker,Oropharynx,Oropharynx,Base of Tongue,T4a,N2c,M0,IVA,SCC,POS,,,,NA,no,NA
+40001521,60.7,Male,ECOG 0,20,Current,heavy,Oropharynx,Oropharynx,Base of Tongue,T4a,N2b,M0,IVA,SCC,NEG,,,,NA,yes,NA
+40001525,53.3,Male,ECOG 1,20,Current,non-drinker,Oropharynx,Oropharynx,Tonsil,T2,N2b,M0,IVA,SCC,POS,,,,NA,no,NA
