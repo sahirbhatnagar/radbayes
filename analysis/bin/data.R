@@ -1,5 +1,5 @@
-DT1 <- fread("data/HNSCCT-input.csv", na.strings = c("",NA,"unknown"))
-DT2 <- fread("data/HNSCCT-outcome.csv", na.strings = c("",NA,"unknown"))
+DT1 <- fread("analysis/data/HNSCCT-input.csv", na.strings = c("",NA,"unknown"))
+DT2 <- fread("analysis/data/HNSCCT-outcome.csv", na.strings = c("",NA,"unknown"))
 
 type <- sapply(str_split(DT1$`Case ID`,"_"), function(i) i[1])
 ID <- sapply(str_split(DT1$`Case ID`,"_"), function(i) as.numeric(as.character(i[2])))

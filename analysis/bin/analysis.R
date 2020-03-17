@@ -1,10 +1,10 @@
-source("bin/packages.R")
-source("bin/functions.R")
-source("bin/data.R")
+source("analysis/bin/packages.R")
+source("analysis/bin/functions.R")
+source("analysis/bin/data.R")
 
 # pacman::p_load(DataExplorer)
 # DataExplorer::create_report(DT_final)
-
+head(DT_final)
 
 pacman::p_load(hardhat)
 fmla <- as.formula(paste("NodalStage ~ Smoking + Drinking + TstageGroup + ", paste(texture_names, collapse = "+") ))

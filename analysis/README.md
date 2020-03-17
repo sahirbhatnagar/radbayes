@@ -11,6 +11,7 @@ Covariates:
   - Smoking
   - Drinking
   - TstageGroup
+  - Site (this is the variable where we might consider a random slope or multitask effect)
 
 Radiological Features:
   - c("SSF0.mean", "SSF0.sd", "SSF0.entropy", "SSF0.mpp", 
