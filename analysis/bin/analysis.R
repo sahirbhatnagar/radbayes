@@ -9,27 +9,20 @@ source(here::here("analysis/bin/data.R"))
 
 
 ## ---- make-design ----
-fmla <- as.formula(paste("NodalStage ~ Smoking + Drinking + TstageGroup + ", paste(texture_names, collapse = "+") ))
+fmla <- as.formula(paste("NodalStage ~ Smoking + Drinking + TstageGroup + ",
+                         paste(texture_names, collapse = "+") ))
 framed <- model_frame(fmla, DT_final)
 hardhat <- model_matrix(framed$terms,framed$data)
-# hardhat %>% str
-# head(hardhat)
 Y <- as.numeric(framed$data$NodalStage) - 1
 XX <- glmnet::makeX(train = DT_final[,texture_names,with=F], na.impute = FALSE)
 
 
 ## ---- fit-lasso ----
 cvfit <- cv.glmnet(x = XX,y = Y, family = "binomial")
-# plot(cvfit)
-# coef(cvfit)
-
-# pacman::p_load(coefplot)
-#
-# coef(fit)[glmnet:::nonzeroCoef(coef(fit)),,drop=F]
-# coef(fit,s="lambda.min")[glmnet:::nonzeroCoef(coef(fit,s="lambda.min")),,drop=F]
-
-coef_1se <- data.frame(feature = names(coef(cvfit, s = "lambda.1se")[-1,]), `coefficient estimate` =  coef(cvfit, s = "lambda.1se")[-1,])
-coef_min <- data.frame(feature = names(coef(cvfit, s = "lambda.min")[-1,]), `coefficient estimate` =  coef(cvfit, s = "lambda.min")[-1,])
+coef_1se <- data.frame(feature = names(coef(cvfit, s = "lambda.1se")[-1,]),
+                       `coefficient estimate` =  coef(cvfit, s = "lambda.1se")[-1,])
+coef_min <- data.frame(feature = names(coef(cvfit, s = "lambda.min")[-1,]),
+                       `coefficient estimate` =  coef(cvfit, s = "lambda.min")[-1,])
 
 
 ggplot() +
@@ -50,7 +43,8 @@ ggplot() +
 glmnet::confusion.glmnet(cvfit, newx = XX, newy = Y)
 tt <- glmnet::roc.glmnet(cvfit, newx = XX, newy = Y)
 plot(tt[,1],tt[,2], type = "l",
-     main = sprintf("AUC of %.3f",glmnet::assess.glmnet(cvfit, newx = XX, newy = Y)$auc),
+     main = sprintf("AUC of %.3f",
+                    glmnet::assess.glmnet(cvfit, newx = XX, newy = Y)$auc),
      xlab = "False Positive Rate",
      ylab = "True Positive Rate")
 abline(a=0, b=1)

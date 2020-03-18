@@ -20,14 +20,53 @@ Here I produce the equivalent coefficient plots for the logistic lasso regressio
 
 
 
+```r
+source(here::here("analysis/bin/packages.R"))
+source(here::here("analysis/bin/functions.R"))
+source(here::here("analysis/bin/data.R"))
+```
 
 
 
 
+```r
+fmla <- as.formula(paste("NodalStage ~ Smoking + Drinking + TstageGroup + ",
+                         paste(texture_names, collapse = "+") ))
+framed <- model_frame(fmla, DT_final)
+hardhat <- model_matrix(framed$terms,framed$data)
+Y <- as.numeric(framed$data$NodalStage) - 1
+XX <- glmnet::makeX(train = DT_final[,texture_names,with=F], na.impute = FALSE)
+```
 
 # Variable Selection
 
-![](lasso_reg_frequentist_files/figure-html/fit-lasso-1.png)<!-- -->![](lasso_reg_frequentist_files/figure-html/fit-lasso-2.png)<!-- -->
+
+```r
+cvfit <- cv.glmnet(x = XX,y = Y, family = "binomial")
+coef_1se <- data.frame(feature = names(coef(cvfit, s = "lambda.1se")[-1,]),
+                       `coefficient estimate` =  coef(cvfit, s = "lambda.1se")[-1,])
+coef_min <- data.frame(feature = names(coef(cvfit, s = "lambda.min")[-1,]),
+                       `coefficient estimate` =  coef(cvfit, s = "lambda.min")[-1,])
+
+
+ggplot() +
+  geom_point(data = coef_1se, mapping = aes(x = feature, y = `coefficient.estimate`)) +
+  theme(axis.text.x = element_text(angle = 90)) +
+  labs(title = "Lasso solution based on 10-Fold CV and lambda.1se",
+       subtitle = "Nodal Stage prediction using logistic regression with texture features only")
+```
+
+![](lasso_reg_frequentist_files/figure-html/fit-lasso-1.png)<!-- -->
+
+```r
+ggplot() +
+  geom_point(data = coef_min, mapping = aes(x = feature, y = `coefficient.estimate`)) +
+  theme(axis.text.x = element_text(angle = 90)) +
+  labs(title = "Lasso solution based on 10-Fold CV and lambda.min",
+       subtitle = "Nodal Stage prediction using logistic regression with texture features only")
+```
+
+![](lasso_reg_frequentist_files/figure-html/fit-lasso-2.png)<!-- -->
 
 
 # Prediction Performance
@@ -35,14 +74,28 @@ Here I produce the equivalent coefficient plots for the logistic lasso regressio
 Here I provide the prediction performance. Likely overfit because the training set is also used as the test set. 
 
 
+```r
+glmnet::confusion.glmnet(cvfit, newx = XX, newy = Y)
+```
+
 ```
 ##          True
 ## Predicted   0   1 Total
-##     0     126  50   176
-##     1     141 288   429
+##     0     136  57   193
+##     1     131 281   412
 ##     Total 267 338   605
 ## 
-##  Percent Correct:  0.684
+##  Percent Correct:  0.689
+```
+
+```r
+tt <- glmnet::roc.glmnet(cvfit, newx = XX, newy = Y)
+plot(tt[,1],tt[,2], type = "l",
+     main = sprintf("AUC of %.3f",
+                    glmnet::assess.glmnet(cvfit, newx = XX, newy = Y)$auc),
+     xlab = "False Positive Rate",
+     ylab = "True Positive Rate")
+abline(a=0, b=1)
 ```
 
 ![](lasso_reg_frequentist_files/figure-html/prediction-performance-1.png)<!-- -->
@@ -57,6 +110,10 @@ Here I provide the prediction performance. Likely overfit because the training s
 
 # Session Info
 
+
+```r
+devtools::session_info()
+```
 
 ```
 ## ─ Session info ───────────────────────────────────────────────────────────────
