@@ -1,5 +1,5 @@
-DT1 <- fread("analysis/data/HNSCCT-input.csv", na.strings = c("",NA,"unknown"))
-DT2 <- fread("analysis/data/HNSCCT-outcome.csv", na.strings = c("",NA,"unknown"))
+DT1 <- data.table::fread(here::here("analysis/data/HNSCCT-input.csv"), na.strings = c("",NA,"unknown"))
+DT2 <- data.table::fread(here::here("analysis/data/HNSCCT-outcome.csv"), na.strings = c("",NA,"unknown"))
 
 type <- sapply(str_split(DT1$`Case ID`,"_"), function(i) i[1])
 ID <- sapply(str_split(DT1$`Case ID`,"_"), function(i) as.numeric(as.character(i[2])))
@@ -72,8 +72,9 @@ DT$Tstage %>% table(useNA = "al")
 
 
 texture_names <- grep("SS", colnames(DT), value = T)
-length(texture_names)
-colnames(DT)
+texture_names <- texture_names[order(texture_names)]
+# length(texture_names)
+# colnames(DT)
 covariates <- c("Site","Smoking","Drinking","TstageGroup")
 outcomes <- c("NodalStage","HPV","PNI","LVI")
 
