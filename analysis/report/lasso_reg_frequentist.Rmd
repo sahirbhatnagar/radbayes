@@ -1,11 +1,11 @@
 ---
-title: "Binomial Frequentist Lasso Regression on Texture Features only"
+title: "Binomial Frequentist Lasso+Multitask Regression"
 author: "by Sahir Bhatnagar"
 date: "`r Sys.Date()`"
 output:
   html_document:
     toc: true
-    toc_float: true
+    toc_float: false
     number_sections: true
     toc_depth: 4
     keep_md: true
@@ -15,13 +15,17 @@ editor_options:
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE, fig.width = 9, fig.height = 7)
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE, fig.width = 9, fig.height = 7)
 options(digits = 4, scipen = 2)
 
 knitr::read_chunk(here::here("analysis/bin/analysis.R"))
 ```
 
-Here I produce the equivalent coefficient plots for the logistic lasso regression with glmnet [@R-glmnet]. There are mainly two ways to select the tuning parameter. I present both, which is based on 10-Fold cross validation. 
+
+# Site as fixed effect
+
+Here I produce the coefficient plots for the logistic lasso regression with glmnet [@R-glmnet]. 
+
 
 
 ```{r load-data}
@@ -32,17 +36,38 @@ Here I produce the equivalent coefficient plots for the logistic lasso regressio
 ```{r make-design}
 ```
 
-# Variable Selection
+
+## Variable Selection
 
 ```{r fit-lasso}
 ```
 
 
-# Prediction Performance
+## Prediction Performance
 
 Here I provide the prediction performance. Likely overfit because the training set is also used as the test set. 
 
 ```{r prediction-performance}
+```
+
+
+
+
+
+# Multitask Lasso
+
+The Objective function for the multitask lasso is given by:
+
+$$
+\min\limits_{W, C} \sum_{i=1}^{t}{L(W_i, C_i |X_i, Y_i)} + \lambda ||W||_1 
+$$
+
+where $L(\circ)$ is the logistic loss function, $||W||_1$ is the $\ell_1$-norm penalty term on the regression coefficients $W$, $X=\{X_i= n_i \times p | i \in \{1,...,t\}\}$ are the covariates and texture features, $Y=\{Y_i=n_i \times 1 | i \in \{1,...,t\}\}$ is the binary response (Nodal Stage). $W \in \mathbb{R}^{p \times t}$ is the coefficient matrix where $W_i$ is the i$th$ column of $W$ and refers to the coefficient vector of task $i$. $C_i$ is the intercept for task $i$.   
+
+
+
+```{r multi-task}
+
 ```
 
 
