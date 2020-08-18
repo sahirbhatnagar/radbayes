@@ -7,7 +7,9 @@ source(here::here("analysis/bin/packages.R"))
 source(here::here("analysis/bin/functions.R"))
 source(here::here("analysis/bin/data.R"))
 
-
+DT_final$Site %>% table
+DT_final[Site=="OSCC"]$HPV %>% table(useNA = "al")
+DT_final[, table(Site, HPV, useNA = "al")]
 ## ---- make-design ----
 # fmla <- as.formula(paste("NodalStage ~ Smoking + Drinking + TstageGroup + ",
 #                          paste(texture_names, collapse = "+") ))
