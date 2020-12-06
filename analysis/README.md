@@ -1,3 +1,12 @@
+August 19, 2020
+===========================================
+- under the frequentist paradimg, you cant do missing data 
+- 1) missingness of an important risk factor
+- 2) feature selection hierarchical model with those specific priors
+- 3) fix the parameters and generate data from the model. generate data under the horshoe prior, and see if we can get back the selected variables. use simulated data from the simulation study you wrote up 
+- compare with frequentist lasso. which is basically already done. (multitask lasso)
+- for the simulations start with no missing data. 
+
 March 17, 2020
 ======================================
 

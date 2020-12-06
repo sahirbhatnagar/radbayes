@@ -1,0 +1,19 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citename{Piironen and Vehtari}2017]{PiiVeh2017}
+J~Piironen and A~Vehtari.
+\newblock 2017.
+\newblock Sparsity information and regularization in the horseshoe and other
+  shrinkage priors.
+\newblock {\em Electronic Journal of Statistics}, 11:5018--5051.
+
+\bibitem[\protect\citename{Sala \bgroup et al.\egroup
+  }2017]{sala2017unravelling}
+E~Sala, E~Mema, Y~Himoto, H~Veeraraghavan, JD~Brenton, A~Snyder, B~Weigelt, and
+  HA~Vargas.
+\newblock 2017.
+\newblock Unravelling tumour heterogeneity using next-generation imaging:
+  radiomics, radiogenomics, and habitat imaging.
+\newblock {\em Clinical radiology}, 72(1):3--10.
+
+\end{thebibliography}

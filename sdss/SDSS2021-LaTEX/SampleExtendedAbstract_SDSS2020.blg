@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: SampleExtendedAbstract_SDSS2020.aux
+The style file: sdss2020.bst
+Database file #1: SampleReferencesForExtendedAbstract.bib
+Warning--I didn't find a database entry for ""
+You've used 2 entries,
+            2490 wiz_defined-function locations,
+            567 strings with 5007 characters,
+and the built_in function-call counts, 1001 in all, are:
+= -- 101
+> -- 56
+< -- 0
++ -- 20
+- -- 20
+* -- 89
+:= -- 175
+add.period$ -- 8
+call.type$ -- 2
+change.case$ -- 18
+chr.to.int$ -- 2
+cite$ -- 2
+duplicate$ -- 30
+empty$ -- 61
+format.name$ -- 23
+if$ -- 193
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 2
+newline$ -- 15
+num.names$ -- 6
+pop$ -- 14
+preamble$ -- 1
+purify$ -- 20
+quote$ -- 0
+skip$ -- 24
+stack$ -- 0
+substring$ -- 57
+swap$ -- 4
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 16
+warning$ -- 0
+while$ -- 8
+width$ -- 3
+write$ -- 30
+(There was 1 warning)

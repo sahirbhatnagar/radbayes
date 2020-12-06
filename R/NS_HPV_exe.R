@@ -1,6 +1,10 @@
 library(rstan)
 library(varhandle)
 
+source(here::here("analysis/bin/packages.R"))
+source(here::here("analysis/bin/functions.R"))
+source(here::here("analysis/bin/data.R"))
+
 missing = which(!complete.cases(DT_final[,5:8]))
 DT_final0 = DT_final[-missing,]
 df_feature = DT_final0[,9:ncol(DT_final0)]
@@ -29,9 +33,9 @@ y2[y2==2] = 1
 y_obs2 = y2[-nas]
 y_mis2 = y2[nas]
 
-data = list(N = length(y_obs) + N_mis, N_obs = length(y_obs), N_mis = N_mis, M = ncol(df_std), L = ncol(Z_obs), R = 3, S_obs = S_obs, 
+data = list(N = length(y_obs) + N_mis, N_obs = length(y_obs), N_mis = N_mis, M = ncol(df_std), L = ncol(Z_obs), R = 3, S_obs = S_obs,
             S_mis = S_mis, y_obs = y_obs, y_obs2 = y_obs2, y_mis2 = y_mis2, X_obs = X_obs, X_mis = X_mis, Z_mis = Z_mis, Z_obs = Z_obs)
-fit <- stan(file='mv_LLFH_bySite_wMissing_2.stan',
+fit <- stan(file=here::here("src/stan_files/model/mv_LLFH_bysite_wMissing_2.stan"),
                     data=data, seed=4938483, chains = 2,
                     control=list(adapt_delta=0.99, max_treedepth=15))
 fit_res = extract(fit)
@@ -43,10 +47,10 @@ bq5 = apply(beta1, c(2,3), quantile, p = c(.5))
 bq75 = apply(beta1, c(2,3), quantile, p = c(.975))
 bq = data.frame(lower = c(bq25), est = c(bq5), upper = c(bq75), Site = rep(c(1,2,3), each = 36))
 #save(bq, file = 'slope_bySite.Rdata')
-ggplot(bq, aes(x = rep(names(df_feature), 3), y = est)) + geom_point() + 
+ggplot(bq, aes(x = rep(names(df_feature), 3), y = est)) + geom_point() +
   geom_errorbar(aes(ymin = lower, ymax = upper), width = 0.1) +
   facet_grid(Site ~ .) +
-  xlab('feature') + ylab('coefficient estimate') + 
+  xlab('feature') + ylab('coefficient estimate') +
   theme(axis.text.x = element_text(angle = 90, hjust = 1))
 
 beta2 = fit_res$beta2
@@ -56,10 +60,10 @@ bq5 = apply(beta2, c(2,3), quantile, p = c(.5))
 bq75 = apply(beta2, c(2,3), quantile, p = c(.975))
 bq2 = data.frame(lower = c(bq25), est = c(bq5), upper = c(bq75), Site = rep(c(1,2,3), each = 36))
 #save(bq, file = 'slope_bySite.Rdata')
-ggplot(bq2, aes(x = rep(names(df_feature), 3), y = est)) + geom_point() + 
+ggplot(bq2, aes(x = rep(names(df_feature), 3), y = est)) + geom_point() +
   geom_errorbar(aes(ymin = lower, ymax = upper), width = 0.1) +
   facet_grid(Site ~ .) +
-  xlab('feature') + ylab('coefficient estimate') + 
+  xlab('feature') + ylab('coefficient estimate') +
   theme(axis.text.x = element_text(angle = 90, hjust = 1))
 
 
